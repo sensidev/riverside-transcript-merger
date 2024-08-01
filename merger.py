@@ -3,7 +3,7 @@ import re
 import sys
 from datetime import timedelta
 
-DEFAULT_TRANSCRIPTS_PATH = 'samples'
+DEFAULT_TRANSCRIPTS_PATH = 'transcripts'
 
 
 # Function to parse timestamp and return timedelta object

@@ -1,0 +1,1075 @@
+Aleodor (00:00)
+Deci, primul exemplu care -mi vine în cap și nu știu dacă e cel mai relevant, dar e primul care vine. E ultimul hackathon la care am fost, cred că Bucharest Hackathon se numea sau ceva de genul ăsta. Unde e realistic vorbind, m -am dus acolo să fiu mentor, consultant pentru două ore. Ăla era dealul. Viști și stai două ore, vorbești un pic cu oamenii pe aici și aia a fost. A venit Aleodor la hackathon, de la ora 9 dimineața.
+
+Lucian (00:11)
+Mhm.
+
+Aleodor (00:30)
+A început să vadă oamenii, a început să vadă că oamenii sunt pasionați, a început să vadă că lumea e interesată și că vrea să își îmbunătățească soluții, să se prinde de market fit, de cum creăm produsul, toate lucrurile astea care își...
+
+Lucian (00:44)
+Să te -am pic mentor pe partea de entrepreneur startup sau mentor pe tehnic sau și și.
+
+Aleodor (00:50)
+Nu mă vând ca și cum aș fi bun pe partea de antreprenor startup, deși cred că am cunoștințe destul de solide și pe partea aia, dar rolul meu era cumva să fiu mentor pe partea de engineering de cum să îți faci soluția, cum să scaleze, cum să approach din punct de vedere costuri și toate chestiile astea.
+
+Lucian (00:59)
+Aha.
+
+De fain.
+
+Ok, și ce s -a întâmplat?
+
+Aleodor (01:14)
+Și la ora 10 seara, Aleodor era tot la hackathon cu toți oamenii în jurul lui, încercând să își dea seama cum să repare o soluție de privacy pe care încercau să o pună cap la cap o gașche de băieți, care mi se părea mie o idee mișto. În timp ce după aia săream și mă încercam să mă duc să văd cum fac profiling de gaming la o altă soluție care încerca să o facă o altă gașche de oameni de acolo. Literalmente și...
+
+Nu zic ca asta ca ar fi ceva neapărat bine, dar genul ăsta de drive... Eu am trecut prin ziua aia, nu știu dacă am băut apă, am mâncat... Nu mi -aduc aminte. A fost un foc constant de dimineață până seara și m -am sărit din proiect în proiect de la om de la om, dar simplu în moment în care stăteam 15 -20 de minute ca să ne deblocăm de pe problema curentă și vedeam cu cât drive își ia oamenii în momentul ăla și cum...
+
+Apari zâmbetul ăla pe față că da, uite, gata, am găsit peatrul forward.
+
+Lucian (02:15)
+Asta vream sa te intreb, ce anume simteai de la ei ca era momentul acela cand cumva ajungea de bine la tine? In sensul ca era satisfacator. Ce anume trebuiau sa faca oamenii ca la tine sa vina a da ok, am gasit drumul bun, satisfactie la locul ei?
+
+Aleodor (02:26)
+Iep.
+
+Exact, e doar feelingul ăla de... Eu sunt un problem solving at the bottom of my heart. Și în momentul în care eu simțeam, efectiv, că se întâmplă clickul ăla și vezi pe fața omului cum se luminează fața că s -a prins aha! Deci, ăla e, aha momentul ăla, pentru mine, e worth a million bucks, ca să zic așa.
+
+Lucian (02:50)
+Deci așa!
+
+Și după aia îi lăsai, ziceai ok, na, acum ești pe drumul bun și plecai. Mergeai la altă echipă. Nice!
+
+Aleodor (02:59)
+Absolut! M -am retras, m -am dus mai departe, mergeam la alta echipa, sa deblocam urmatoarea echipa. Dar asa functione si in viata in rest, adica imi place enorm de mult sa ajut oameni si sa pun un numar acolo, gen esti cu caruta pe marginea drumului, trebuie sa -i pui roata, imi place sa vin, pun un numar, ridic, punem roata, am plecat mai departe. Sune!
+
+Lucian (03:09)
+Mm -hm.
+
+Da, auzi, un pic te intre -l pe aici de dor. Tu, in contextul in care vorbeam de ideea asta ca faci tu terapie, cand ie ies rica roata, tu te ajuti pe tine?
+
+Aleodor (03:38)
+Absolut. A fost un proces acolo. Nu -ți imagina că am făcut -o din prima. Că e acolo un... Se numește un... Cred că sindromul erouuilei sau ceva de genul ăsta. Pe care -i... Savior type, da. Pe care îl am, cred că, de când mă știu. Așa am funcționat eu ca și paradigmă, ca și psihologie overall. Până la un anumit punct în viață, cumva...
+
+Lucian (03:39)
+Ok. Ok.
+
+Să -l sătătăm.
+
+Aleodor (04:07)
+Nu aveam un simț de self -preservation neapărat în procesul ăsta. Dar ușor -ușor am început să intr în zona asta de introspectie, să mă prind exact cum funcționează lucrurile astea, să îmi dau seama că dacă eu nu sunt bine, nu pot să -i ajut pe ceilalți. Și acum sunt într -o zonă mult, mult mai healthy din perspectiva asta, în care chiar pot să -i ajut și pe ceilalți și în momentul în care simt că nu mai am bandwidth, pot inclusiv...
+
+să reach out, să cer ajutor. Am o gașcă extraordinară de prieteni, suntem vreo șapte. Și cred că am și zis undeva la unul dat în timeline -ul ăsta că să ai o gașcă de prieteni și să ai oameni pe care să te poți baza cred că e unul din cele mai importante chestii pe care poți să le ai în viață. Așa că cu ocazia asta vă știți voi acolo, dar vă iubesc. Aveți grijă de voi.
+
+Lucian (04:54)
+Da, da, da. Bună ziua.
+
+E sigur că o să ascultă episodul cu tine, nu? Băi, ascult, omul! Foarte fain, foarte fain zici. Să știi că m -am identifica și eu un pic aici cu povestea asta ce zici de a eroua, sau savior, kind of type. Genul de... Nu știu dacă inginerii spre dispuși, spre afii, genul ăsta de tip în care sunt tot timpul pe a găsi soluții pentru oameni în jurul lor.
+
+Aleodor (05:05)
+Sunt sigur că s -l asculte exact, dar c -o să -i bat la capă nu s -l asculte.
+
+Mhm.
+
+Lucian (05:29)
+Pentru că inginerii ce fac? Găsesc soluții la probleme. Inginerește vorbind. Apă ingineriște vorbind și omul poate să aibă nevoie de niște soluții. Numai ce se întâmplă? Eu chestii și am observat la mine. Acuma pot să dau un pic și la mine din casă. Ideea e că de multe ori mi s -a întâmplat și am împins soluțiile pe care eu consider că sunt bune, le -am împins la alții și am zis uite asta e soluția, asta e eficientă, asta merge repede, asta e bine pentru că eu știu.
+
+Aleodor (05:32)
+Exact.
+
+Mhm.
+
+Lucian (05:56)
+Și am făcut bypass la learning curve -ul pe care îl are omul și uneori nu e acceptat și eu devin uneori poate sau deveneam că ne -am dat și eu seama care e ceomă, deveneam frustrat. Băi cum adică? Adică eu zic îți iei cum e mai bine și tu nu iei în considerare sfatul meu și băgam practic sfatul pe gât omului. Ia mă de aici că știu eu mai bine.
+
+Aleodor (06:16)
+Ha ha ha!
+
+Lucian (06:19)
+Și eu am o bineînțelescând, nu știi mai bine, lasă -mă să experimentez, lasă -mă să chestii. Și atunci, da, e important să înțelegem dinamica asta, cum funcționează oamenii și cum anume... că de aia te -am întrebat dacă ai grijă și de tine sau dacă te ajuți pe tine. Că găsești soluții la tot numai la ale tale probleme, nu uneori.
+
+Aleodor (06:38)
+Mhm.
+
+N -as putea să mă plâng de asta. Ți -am zis, am avut o perioadă, cel puțin, cred că anii și aici, a revinit la întrebarea ta, Andreea, de unde suntem în cronologia aia toată. La Maidău, hai să o dăm dreacul pe Românește, la punctul ăla, lucrurile în viața mea au început să fie un pic mai rocky. Basically, taic mâine s -a îmbolnăvit de leucemia, asta s -a întâmplat acum vreo, cred că 12 ani au trecut de acum sau așa.
+
+Lucian (07:03)
+Așa.
+
+Aleodor (07:14)
+pentru că, no, educația financiară în România, ea nu există neapărat per se, ai mine n -au știut foarte bine să navighezi, perioada respectivă ne -am pierdut apartamentul din Bacău, a fost o chestie foarte confuzantă overall. Dar, pentru mine, perioada aia a trigăruit o grămadă de creștere accelerată. Toate greutățile, toate chestiile pe care o trebuie să le navighez ca parte din...
+
+perioada aia, nașpa din viața mea, au dus la o... am... a creștit și am dezvoltat foarte mult și eu o să la început să citez foarte mult despre psihologia umană, pentru că eu mă interesam la punctul ăla, ok, cum pot să îi mențin lui tata optimismul, cum pot să îl mențin în priză, cum pot să fie bine, să fiu eu bine, să fie mama, să fie sora mea bine, nu, ne întoarcem acolo, știi? Să rezultate problemele, da. Și dacă nu știu cum...
+
+Lucian (08:04)
+Se rezolv toate problemele Tuturor! Exact!
+
+Aleodor (08:11)
+Iau gheozi danul în spate, research mode. Cât trebuie.
+
+Lucian (08:15)
+Exact. Și te sacrificai pe tine în procesul ăsta uneori sau nu?
+
+Aleodor (08:21)
+Da, am făcut asta și cred că încă mai am tendința să mai fac asta câteodată. E într -un mod mult mai healthy decât ți -a întâmplat acum ceva ani, dar e atât de instinctual încât nu îmi dau seama neapărat de chestia asta și chiar și atunci când am intrat în terapie pe zona asta și am început să discutăm și să săpăm la ea, mi -am dat seama că eu sunt foarte ok cu asta.
+
+Lucian (08:39)
+Așa.
+
+Aleodor (08:51)
+Indiferent de forma în care ar ieși și oricum le sună oamenilor din jur sau inclusiv terapeutilor, eu sunt ok cu asta. Așa că fiecare să -și trăiască viața așa cum vrea, eu așa o să o duc pe a mea.
+
+Lucian (08:52)
+cu self -sacrifice, deci cu...
+
+Mm -hm.
+
+Foarte bine! Măcar știi ce vrei, știi ce -ți place, știi ce -ți trebuie! Și e foarte important să accepti lucrurile care poate nu sunt perfecte, poate nu sunt ok, poate nu sunt dar le accepti și mești mai departe.
+
+Aleodor (09:14)
+Exact, exact.
+
+pentru că guess what? Nimic nu e perfect. Dacă am învățat ceva de -a lungul ăstra multice ani, de acum aș zice, este că...
+
+Cu cât accepti mai devreme că lucrurile n -o să meargă așa cum speri tu sau cum te aștepți tu, ci o să meargă așa cum vor ele, până la urmă într -o oaricare măsură, și cât tu doar ai așa o direcție, o influență direcțională, merge... Du -te în direcția asta sau du -te în direcția asta, dar nu știi de câte ziduri se izbește pe parcurs. Cu cât accepti asta mai devreme, cu atât cred că e mai healthy pentru mentalul tău și pentru perspectiva ta asupra vieții overall.
+
+Lucian (10:04)
+să nu pui așa multă presiune pe tine și să fii responsabil de absolut toate lucrurile care se întâmplă în lume, nu? Good point, good point.
+
+Aleodor (10:11)
+Exact. Do your best, gen fă tot ce consideri sau tot ce ai energia sau tot ce poți mental -emocional să te duci în direcția în care vrei, dar nu te aștepta că lucrurile o să meargă exact așa cum vrei. Și în momentul în care ajungi în punctul ăla, eu am avut așa un moment de epifanie, aș putea să zic, în care mi -am dat seama că, wow, așa de căcat cum e ea viața câteodată, băi, e miștor rău!
+
+Lucian (10:42)
+Și cum tu cum uite că dacă toti sunt mai aici pe partea asta de psychological stuff, cum găsești tu variante de a de a găsi când ești recunoscător cum ești? Că tu vrei adică înțeleg că găsești partea bună a vieții chiar de rahat cum este ea uneori. Cum cum vezi lucruri sau care e strategia ta prin care faci lucrurile bune să fie vizibile în mintea ta?
+
+Aleodor (11:06)
+De fie vizibile in mintea mea. E o intrebare super buna. Si am doua chestii pe care le fac aici. Unu, vorbesc cu gajca mea de oameni. E o chestie care cred ca este cea mai underrated chestie posibila. Noi cand ne vedem, oversharuim. Si lucrurile de cacat. Si lucrurile bune. Gen stam si le povestim si le despicam in patru.
+
+Dar momentul ăla când pleci de acolo cu tot reflection -ul ăla pe care l -ai făcut nu ne -a... Adică nici măcar numai ei acum la început, când ne -am dat noi seama că bă, ne instrainăm și nu prea ne mai vedem la fel de des, nu prea mai vorbim la fel de mult, la început nu știam efectiv ce se întâmplă, după care ne -am dat seama efectiv că pentru că nu mai stăteam în aceeași camere de cămin sau pentru că nu ne mai vedeam...
+
+de 3 ori pe săptămână pentru că nu aveam altceva ce face sau așa mai departe, noi nu mai șeruiam lucrurile astea despre ce se întâmplă unul în viața celui lat. Și așa că acum când ne vedem, explicit asta facem. Infodump. Geniat aci. Iat.
+
+Lucian (12:12)
+Infodump.
+
+Asta e tot. Overshare, cu tot covershare. Ia, si ce nu vrei sa auzi.
+
+Aleodor (12:23)
+Exact. Dar exact ce nu vrei să auzi e partea cea mai importantă din tot procesul ăla. Pentru că ce nu vrei să zice, de fapt, the raw thing de acolo din spate și momentul ăla în care trebuie să stai să îți pui ordine în gânduri ca să le șeruiești cu oamenii astea, dragi ție, oamenii apropia ție, sunt exact momentele alea de reflection care îmi aduc mie înapoi gratis. Știi?
+
+Lucian (12:27)
+Exact.
+
+Aleodor (12:50)
+Multe din discuțiile mele, uite, am un prieten foarte bun, Sergiu, care ne -am cunoscut acum trei ani. Cine zice că nu poți să -ți faci prietenii for life later in viață, n -a încercat destul, vă zic sincer. Dar ies cu Sergiu efectiv pe bordură la semințe, cum făceam când eram mai tineri, și stăm și povestim pe bordură și câteodată aș zice că...
+
+Lucian (13:05)
+Atâta -i!
+
+Aleodor (13:18)
+Cred că 60 % din discuțiile noastre...
+
+Si se termina cu...pa da o dracu, ca suntem bine. Alai, alai, alai, alai, alai, alai, alai, alai, alai, al
+
+Lucian (13:29)
+Ha ha!
+
+sau dupa ce v -ati plâns?
+
+Asta dupa ce v -ati plâns 2 ore, nu?
+
+Aleodor (13:38)
+Exact, exact. Văd că e un pic de trouble cu conexiunea sau...
+
+Lucian (13:44)
+Da, părea că e un pic, dar acum am în regulă. Merg înainte.
+
+Aleodor (13:48)
+Stai așa, stai așa să închid orice altceva în afară de... Deși n -ar trebui să fie nimic, dar eu știu. Așa, m -auziti bine? Se vede bine? Bun. Da, deci... Că ziceam, mă văd cu Sergiul, ne plângem două, trei ore ca ultimile babe, efectiv. Stăm acolo și ne plângem de cât de nasoală e viața, de că m -a lovit aia, că m -a pălit cealaltă, că toate problemele pe care le avem...
+
+Lucian (13:52)
+Ok.
+
+Vă mulțumesc!
+
+Aleodor (14:17)
+Și după aia brusc și dintr -o dată ne oprim amândoi, ne uităm, ne gândim la momentele buni și suntem la modul... Bă, hai mă că suntem bini mă! Și ăla e momentul în care îți dai seama că gratitude -ul ăla kicks in cumva și îți dai seama, reușești să pui în contrast faptul că până la urmă... Nu. Avem o grămadă de blessing -uri pe care le uităm.
+
+Lucian (14:37)
+Deci să înțeleg că asta o faci social, adică tu nu o faci singur. Elementele astea de gratitudine, de cu un sfier cunoscător, tu cu tine, întru tău, nu, la tine e totu' social. Trebuie să share -ui, trebuie să vorbești, trebuie să împărtășești. Ok, nice.
+
+Aleodor (14:52)
+Da, absolut. Dacă am fost introvert, nu știu cum mi s -a schimbat treaba asta de -a lungul vieții, că vă zic că când eram general în liceu, cred că aveam trei prieteni adunați și nu ieșeam din casă mai deloc. Eram eu cu cărțile fantasy, că citeam o tonă de fantasy și asta era cam tot. Uneva s -a întâmplat de click -ul ăla, s -a făcut switch -ul ăla și am și momentele de gratitudine, de gratitudine...
+
+Lucian (14:58)
+Hehehe
+
+S -a făcut un switch
+
+Aleodor (15:22)
+eu cu mine, dar eu imi am foarte multă valoare din momentele astea cu oamenii apropiați, în care stăm și povestim și facem reflectionul ăsta pe viață.
+
+Lucian (15:34)
+Super, mai mulțumim că ai sărit așa deep dive cu noi în toată treaba asta. Sigur o să putem să mai vă abostim încă 16 ore despre chestiile astea, că sunt multe și deep, dar passez microponul Andrei, care preia timeline -ul tău și mergem un pic mai departe.
+
+Andreea (15:47)
+Da, zic sa mergem mai departe si suntem la timpul sa -i dam pedala chiar momentul in care si e student, daca astocez eu bine
+
+Lucian (15:56)
+De asta e...nu -mi un pic, scuze, cred ca n -am sau am epuizat partea asta cu de la...ba mai dau dracu pana aici sau mai e ceva destors din perioada asta
+
+Aleodor (15:57)
+Ie!
+
+Cred că principala chestiei care s -a trigăruit aici a fost faptul că oamenii nu sunt permanenți. Și cu boala lui Taică -miu și la punctul ăla l -am pierdut pe unchi -miu, care era ca al doilea tată pentru mine. Și în momentul ăla, și de aici citislu' ăsta de... Da -mi mai dă -o dracu' e că am realizat că, gen, nimic nu e garantat. Cumva trăisem în bulă asta a mea de...
+
+Lucian (16:14)
+Așa?
+
+Aleodor (16:40)
+Cum te faci bani?
+
+Până la punctul ăla în viață niciodată nu -mi pusesc însă întrebarea asta. Banii se făceau... Nu știu. Mă mai duceam eu cu tata la montat parchet, la pus ferestri și mai făceam un band pe acolo, dar nu mi -am pus niciodată problema eu a leodori pe persoană fizică, cum o să ajung eu de la punctul de... mănânci covrig cu sanna, de ajunge și tu să trăiești ca un om. N -am avut niciodată în momentul ăsta. Acolo a început să se triggeruească cumva. Și...
+
+De acolo mai departe intrăm cumva în zona de timp de dat pedală, cum ziceai tu, Andreea.
+
+Lucian (17:42)
+Da, bine. Hai sa -i dam pedala atunci.
+
+Aleodor (17:45)
+Sa -i dam pedale. Bun, ii dam pedale. Timpul asta de dat pedala cred ca e... Cum ziceai si tu, se suprapune un pic cu partea de facultate. Cred ca eram prin anul 3. In momentul in care... Anul 2 -3, cam asa, in momentul in care mi -am dat seama ba, gata. Ok, fost un an, 2 de cacat. N -am inteles nimic ca din viata asta. In primul an, pentru mine, a fost destul de dificil ca eu am venit la facultate, in ideea in care ai mei au vrut sa -mi ia chirie.
+
+Băiatul lui mama și -a luat tata, învață bine, dedică o grămadă de timp, hai să luăm o chirie. Și mi -a cumpărat, mi -a luat o chirie, după ce am stat cu tata cred că un weekend întreg și am căutat prin București, mi -a luat o chirie în București care era la mintea cocoșului că nu ne -o permitem. Adică 6 month later am ajuns în situația în care gen ai mei, again, vândusere apartamentul, intraser în propriile economii ca să mă țină pe mine la facultate și să îmi plătească chirie aia,
+
+Lucian (18:34)
+Pe și!
+
+Aleodor (18:44)
+Și la un moment dat vorbesc cu tata și la un moment cel mai serios îmi zici, ba, tata... Nă. Nu știu dacă luna viitoare genul ăsta mai avem de unde să mai plătim chiria, trebuie să... Nii dăm seama ce facem.
+
+Lucian (18:57)
+Bă, asta vorbim de educație financiară sau pur și simplu de...
+
+Aleodor (19:01)
+Nu era vorba de educație financiară. No, no, no. Ai mei miș draci, iubesc super mult, dar ei și educația financiară nu cred că s -au atins niciodată în viață, știi? Au fost două drepte paralele. Da, da. Au fost niște părinți extraordinari și sunt forever grateful pentru amândoi că m -au... m -au...
+
+Lucian (19:18)
+Uite ce moment de vulnerabilitate aici, asa, multumim!
+
+Aleodor (19:29)
+Pusat catre zona asta de... Băi, punem la și învață, educă -te... Cât mai mult, expună -te la oameni cât mai ok de la care să înveți Dar... În apărarea lor, n -am fost niciodată expuși la problema asta de finanție. Efectiv, eu... Eu fost crescuți cumva în generația post -comunistă de... Ai un salar, treci de la o lună la alta și... That's it! Basically.
+
+Lucian (19:54)
+Ok, băi bun și ce te am... deci practic ai avut toate motivele să -i dai pedală. Cum îi da pedală?
+
+Aleodor (20:02)
+Exact, cum i -am dat pedale? Mi -am dat seama de doua chestii. Prima chestie este ca fetele de la care vin la rei vin de piphilologie, nu stiu matematica si trebuie sa treaca clasa la PASE. Asa ca, cine a lasat fetele de la filologie sa vin la Relatii Internationale si le -a pus matematica in primul semestru? Sa -li da Dumnezeu sanatate. Pentru ca mi -a facut bani.
+
+Lucian (20:16)
+Corect.
+
+Că ță făcubăni.
+
+Aleodor (20:31)
+Pentru că așa am început eu să fac primii bani. Am început să fac pregătire cu câteva fete de la relații internaționale. În care predam matematică, v-am zis că eu am fost... gen am învățat super multă matematică datorită dirigului meu din liceu și realistic vorbind, eu în ASE n -am mai învățat matematică deloc. Nu că... eu n -am mai deschis caietul de matematică absolut deloc. Pentru că toată matematică...
+
+Lucian (20:54)
+Căștiai tot!
+
+Aleodor (20:57)
+Exact. Toată matematică pe care am făcut-o în facultate, eu o făcusim deja la liceu, lejer. Și m-am prins că sunt o grămadă de oameni care vor să ia șase. Nu mai mult. Un șase cinstit, vor să ia și ei la facultate. Și atunci am început un program destul de amplu în care am început să dau meditații oamenilor. Și după ce am dus prima tipă și a luat șase, s -a dus vorba și brusc și dintr-odată aveam 10 meditații pe săptămână. Nu...
+
+Nu a dispărut problema mea de bani, dar dintr-o dată era mult, mult mai bine. bine. Îmi permiteam să plătesc o chirie împărțită cu cineva, la punctul ăla. Și, Cipo, dacă ajungi cumva să asculti podcastul ăsta, îți mulțumesc tare mult că m -ai luat la tine în chirie. Așa? Și, pe lângă asta, îmi permiteam chiar să trăiesc. Ca să înțelegeți, în perioada aia am avut, la un moment dat, o perioadă cred că de vreo 3 -4 săptămâni în care, efectiv, masa mea de zi cu zi era...
+
+Lucian (21:32)
+Amintit.
+
+Aleodor (21:55)
+Covrig de la Luca, Matei ce prindeam pe acolo, si unsana. Aia era o masa pe zi, la pranz atat aducea bugetul. Dar da.
+
+Lucian (22:07)
+Ia vi -atăgăream.
+
+Aleodor (22:10)
+M -a calit, mi -a prins bine si m -a triggeruit. Am inceput sa -i dam pedala. Si am intrat in perioada in care am gasit si un flyer super random cu unul din prieteni din Gasc in Madalina, care mi -e super apropiat si am gasit un flyer cu work and travel si a fost un aha moment complet, in care ne -am dat noi seama, ba, dar ce ar fi daca si calatorim si facem si bani? Ca...
+
+Lucian (22:12)
+De -acălit!
+
+Călăt, țetara!
+
+Aleodor (22:40)
+Amândoi sufeream de lipsa unei posibilitati de a scoate o fata in oras, asa ca am zis ca trebuie sa corectam cumva acest handicap overall si trebuie sa mergem intr -o zona mai buna. Da, si am aplicat pentru Work and Travel si atunci am inceput sa vorbesc ingleza de altfel.
+
+Lucian (22:41)
+NICE
+
+Exact, ai vreau sa te intreb cum ai ajuns sa inveti ingleaza pana atunci? Ca era interviu, trebuia sa stii.
+
+Aleodor (23:07)
+Am fost unul dintre noi, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un an, la un
+
+Lucian (23:13)
+Comrade, ce -i faci?
+
+Ciupe!
+
+Aleodor (23:34)
+Era un fel de... Nu l -am văzut niciodată pe Putin vorbind în engleză, dar cred că acolo eram. Sau pe Iliescu. Sau pe Iliescu, da. Acolo eram. Dar expunerea din aia 2 ani de Work and Travel, îți zic, a fost un impact enorm. Faptul că a trebuit să vorbesc constant în engleză. Și mi -am și luat 2 job -uri acolo că...
+
+Lucian (23:39)
+A calat fi... Ok. Sau pe Ilescu. Laia uzi pe Ilescu?
+
+Aleodor (24:01)
+Când m -am dus acolo, m -am prins că dacă stau cu un singur job, nu o să scot bani. Adică o să mă întorc acasă eventual cu datorii. Și m -am prins, ok. Înseamnă că trebuie să -mi iau al doilea job, mi -am luat și al doilea job și cumva eram expus non -stop la vorbit limba engleză și ușor, ușor am ajuns să o vorbesc. Adică în momentul în care am ajuns, terminat anul 2 de work and travel, o vorbeam super fluent. Era... ce trebuie?
+
+Lucian (24:23)
+Ce taro... Da si ce ai lucrat acolo? Mai dane din casa, ce ai facut acolo? Ai scos fete in oras acolo sau ai avut bani?
+
+Aleodor (24:28)
+Mai dau din casa!
+
+N -am scos sfete in oras acolo. Ca si idee, eu eram atunci a 1 -9 intr -o relatie de vreo 14 ani jumate. Si... Si...
+
+Lucian (24:41)
+de la distanta ca tu plecasi si inca ramasa.
+
+Aleodor (24:46)
+Exact, exact, exact. Și eram în continuare în relația asta, pe care nu au, îți dai seama că mă formată în viață, basically. Ne -am, din clasa a cincea până acum, nu foarte mulți ani. Și așa că scopul meu nu am dus acolo să scot fete în oraș, cum zici tu, era la modul, ok, trebuie unul la mână să mă duc, să fac când ajungi de mulți bani, și în așa felul încât când mă întorc, să am banii pe chirie pe un an de zile.
+
+Așa și pe lângă chirie de un an de zile, s -am un buffer acolo de... Nu, au ieșit la un film, de o treabă de una, de alta că pe lângă mai scot eu de la o pregătire, de la o... Iarăși, nu -i ziua să le dea sănătate profilor de la politehnică că ei terrorizează pe oameni și n -au timp să -și facă temele. Mai faci o temă la politehnică, mai vine și un ban de acolo. Da, și... Și cumva, ăsta era scopul meu. Și am lucrat ca housekeeper în primă instanță, gen, am curățat...
+
+Lucian (25:34)
+Exact. Ia uite. Urmas, urmas.
+
+Aleodor (25:45)
+VCE -uri... Nu vrei să știți. Mi -a ajuns pentru tot restul vieții. Și după aia seara lucram ca și bucătar. Eu sunt foarte pasionat de bucătărie și îmi placea foarte mult să gătesc. Încă îmi place să gătesc, dar nu mai găsesc la fel de mult timp ca înainte. Și aveam și background că unchi meu a fost un bucătar foarte bun de la care am învățat o grămadă de chestii și cumva am reușit să mă lipesc seara să lucrez ca și bucătar. Băgam de la 6 dimineața până la...
+
+Lucian (25:48)
+Oh, my God.
+
+Aleodor (26:15)
+10 -11 pe seara era foc continuu. Nu aveam pauza, nu aveam nici. Prima parte curatenie, a doua parte bucatarie. Asta in primul an. In al doilea an m -am prins eu ca ok, partea asta cu bucataria au mers de 3 ori mai bine decat partea cu housekeeping. Adica in housekeeping eram exploatati, basically. In bucatarie plecam si cu mancare acasa, dupa fiecare tura. Si pe langa faptul ca plecam cu mancare acasa era si mai bine platita decat housekeeping.
+
+Așa că în al doilea an am zis, ok, mă duc direct bucătar și am plecat bucătar de data asta pe lângă Washington în Shenandoah Park și am lucrat acolo cred că cinci luni am stat în total, dar ideea este că la final ajunsim să lucrez ca și șef de linie, se numește, mă rog, adică coordonam bucătăria de dimineață până la ora 3 după a meaza și am avut inclusiv ofertă să rămân în Chicago.
+
+de la unul din cefi de acolo si sa ma duc sub -chef la unul din restauranteri lui. Imi gasise inclusiv o tipa cu care sa ma casatoresc ca sa ramand si sa am citatanie. Adica... It went all the way!
+
+Lucian (27:22)
+FUL OPTION!
+
+Aleodor (27:26)
+Exact, exact, exact. Și motivul pentru care n -am rămas sincer e că am sunat -o pe mama și a început mama. Păi, mama, cum să rămânem acolo, mă? Vin și terminâți facultatea, că ești băiat serios. Și așa că am zis că hai că nu o dezamăgesc pe mama, n -o las chiar așa în plop și mă întorc acasă să -mi termin facultatea.
+
+Lucian (27:44)
+Vezi ce micodecizii mari de fapt care schimba cursul vietii. Ce interesant.
+
+Aleodor (27:53)
+Absolut, dacă nu, cine știe, poate mă vedeați pe la MasterChef, prin state. Zic și eu.
+
+Lucian (27:58)
+Cine stie, clar! Oricum poza este foarte foarte...aici eu ma si uit in bio -ul tau, vad acolo mult foc, multa chestii, super spectaculoase, adica...there is something!
+
+Aleodor (28:10)
+Da, da, da. Am fost și expus la un bucătar foarte bun de acolo, un bucătar cu care de altfel am organizat și o masă de Super Bowl și nu vreți să știți ce se întâmplă în spatele unei bucătării la un eveniment de tipul Super Bowl. E efectiv o fabrică de oameni care sunt sub o enormă presiune să livreze constant diși, după diși, după diși, după diși. E o neobnie absolută.
+
+Dar mi -a prins, m -a calit in viata, daca nici asta nu m -a mai calit, nu stiu ce nu m -a calit. Am vazut inclusiv oameni care, la finalul turei, s -au asezat jos langa masa, langa masa de prep unde eram noi, si plangeau, efectiv. Adica... Da, da, da, next level stuff. Da.
+
+Lucian (28:52)
+ceva epuizați complet, da, imaginez.
+
+Dar mai cum... Bun, mai e ceva de puizat daca tot eram cu cuvântul ăsta în brațe la povestea asta cu Work and Travel sau decizia ți -a pus capac, mama a zis hai, termină -ți facultate, venite înapoi în România? Aia a fost.
+
+Aleodor (29:13)
+Aia a fost. Capac, acolo m -am intors in Romunia, m -am prins ok. Daca m -am intors in Romunia trebuie sa -si faca ceva in legatura cu asta. Si asa m -am aterizat la primul job in anul 3, cand am...
+
+Lucian (29:20)
+Așa.
+
+Deci încă erai la facultate când ai dat de Ericsson din câte înțeleg. A scuze, ecriu, n -am citit greșit. Nu mai există? Ce făceai acolo? Hai explică -ne un pic de experiență. Cum a fost primul tău interviu în IT? Mă gândeasc tec că a fost pe post de programator sau nu?
+
+Aleodor (29:29)
+Ecrion se numește. Se numea, nu mai există între timp. Nu mai există.
+
+Da, eram la punct în anul 3, in care credeam că știu programarei, sincer. Făceam parte de Microsoft Student Partners, nu știu dacă ați auzit de organizații, de organizația dreavită de Microsoft, unde sunt developeri, advocheți pentru .NET. Făceam aplicații pentru Windows Phone, a existat Windows Phone dacă vă mai aduceți aminte și Windows a zis cum concurăm noi cu Android -ul. Păi luăm toți studenții pe care i -avem și punem să facă aplicații...
+
+Lucian (30:04)
+Da, da, da. Să -ți sigur că da.
+
+Aleodor (30:13)
+și să miroreze storul de Android.
+
+Lucian (30:16)
+Să facem și neustor.
+
+Aleodor (30:18)
+De asta e atât de succesful Windows Phone acum. Atât am vrea să zic. Dar ideea este că eram destul de confident și am început să intru în interviuri. Vreau să vă zic că am dat... Crec că nu exagerez. 18 sau 19 interviuri din care n -am luat niciunul. De la poziții de .NET, la poziții de C++.
+
+Lucian (30:21)
+Ha ha ha ha!
+
+Aleodor (30:46)
+la poziții de SQL, gen nu, după nu, după nu, după nu, după interviu, nu înțeleg ce s -a întâmplat în perioada aia și acum cred că eri prest trauma sau ceva de genul ăsta pentru că încercând să mă uit la toate interviurile alea, eu nu mi -aduc aminte ce a mers atât de prost în ele dar ideea este că 18 interviuri n -am prins nimic, nici un interviu și la interviu numărul 19 am ajuns la Ecrion care căutau un job, un...
+
+pe cineva, un student, care se lucreze part -time. 4 ore la vremea respectivă, pe un salar minunat, numai știu, 1200 de lei. Cred că era salarul la vremea aia, când ajuns pentru chirie, pentru mâncare, pentru... Na, îți dai seama, eventual puteam să plătești și o rată la mașină. Da, nu. Ideea este că am început să lucrez cu ei, lucram la o soluție, ei ce făceau?
+
+Lucian (31:30)
+Huuu!
+
+Vai, vai, cât era?
+
+Asta.
+
+Aleodor (31:45)
+ajutau companiile aeriene sau alte companii care aveau nevoie să creeze bilete de avion sau de orice. Aveau un studio în care te conectai la bază ta de date, îți extrăgeai clienții și îți permitează să -ți faci niște template -uri parametrizate în așa fel încât să generez facturile respective, biletere respective sau orice aveai tu nevoie. Asta făceau. Era firma unui românache care...
+
+A făcut el niște combinații, a plecat prin state și a găsit niște clienți. Și vreau să zic că cred că, to the day, nu știu dacă am muncit mai mult decât acolo. Acele patru ore au devenit cred că 12 -13 ore pe zi, stăteam efectiv de dimineață până seara. Și îmi aduc aminte, e foarte amuzant pentru later on chestia asta, dar îmi aduc aminte că la un moment dat, după ce am intrat pe .net, pe .net m -am descurcat cum m -am descurcat și la un moment dat am avut...
+
+Lucian (32:30)
+Oh, ieieieie
+
+Aleodor (32:42)
+oportunitatea să mă unc pe partea de web, pe soluția de web. Și acolo am avut un mentor, Andrei, Dumnezeu să -i dea sănătate de la el am învățat, cred că tot ce m -a ajutat în următorii ani de development, super bun tipu. Și la un moment dat vine CEO -ul, care veni să -mi vizite din state și vine la mine, eu iarăși, zero experiențe de web, zero treabă, na...
+
+Abia știam ce e la un HTML și îmi zice, îmi zice fii atent. Vreau să ne schimbăm site -ul de prezentare și site -ul nostru Business. Foloseau un bracu in the background atunci și am văzut eu unu' șmecher. Și vine la mine la laptop și scrie Adobe .com. Enter. Așa vreau să arăt.
+
+Lucian (33:30)
+Ha ha!
+
+Da, simplu!
+
+Aleodor (33:37)
+Acum ați zice că orice developer normal la cap s -ar uita la el și i -ar zice... Ce ai mă, băiatule, îi îndebunit? Aleodor, la momentul ăla... Da nu facem, șef! Rupem! Rupem! Și mai mult decât atâta mi -a zis că n -ar trebuie să țeam mai mult de o lună... ... treaba asta. Total, în capul meu, în condițiile în care din nou eu nici măcar nu știam să pun un widget de HTML, o lună ce ai?
+
+Lucian (33:48)
+Ce faci? Executam!
+
+O luna.
+
+Nu știai cât de mult, nu știi ca să poți să zici că o să -ți dureze mai mult. Cum se numește? Să fermii paradox? Nu fermii paradox. Cum ne -am văzut? Dunning Green, Dunning Green, Donning, Kruger Effect. Cred că este, da. Dunning Kruger Effect. Cât știi mai mult, cu atât îți dai seama câte nu...
+
+Aleodor (34:07)
+Iar am rămut... Zi!
+
+Nu știu să zic cum se numește.
+
+N -o.
+
+Lucian (34:36)
+de fapt dar cu cât nu știi practic nu da cu atât ești
+
+Aleodor (34:39)
+Că atunci te -aiși mai confident.
+
+Da, așa că am zis... What can go wrong? Eu aveam nevoie din salari la finalul runii, până la urmă. Vroiam neapărat să fiu expus la Andrei, la tipul ăsta în condoare, pentru că mi se părea super smart și aveam o tonă din văța de la el. Și acum m -am uitat la el și am zis... Facem, cum nu? Și am început să fac cea mai mare muncă de copy -paste, cred că din viața mea. Adică...
+
+Mă uitam efectiv la Adobe, încercam să -mi dau seama cum dracuși au făcut ăștia pagina, ce înseamnă elementele astea, cum să leagă în spate, să duc la un api.
+
+Lucian (35:13)
+Dar era făcut în Action Script pe atunci sau nu? Era Flash? Nu, nu era... Așteptam, măi. Ce sese?
+
+Aleodor (35:16)
+Nu, nu, nu. Era... Era HTML, CSS, și era făcut gen Adobe, era... Cumva... They were pushing the boundaries, știa? De că făceau chestii foarte mișto. Animații pe acolo, transiții de CSS. Chestii la care eu haboară nu aveam cu ce să mănâncă.
+
+Lucian (35:31)
+Cumva se dădea un pepen și încordau mușchii, cum s -ar zice.
+
+Aleodor (35:36)
+Ce a fost normal. Continuăm să facă asta, știi? Și e normal pentru o firmă de dimensiunea să facă asta. Nu neapărat normal pentru o firmă pe cum e Crionu. Dar... Cred că șapte luni mi -a luat, până la urmă... De... Definiește terminat. Eram singur și îl aveam doar pe Andrei să mă ajute în momentul în care mă blocam.
+
+Lucian (35:37)
+flexi
+
+Ok.
+
+7 luni. Wow, dar e terminat cu norma.
+
+Erai singur? Da, exact. Erai singur?
+
+Aleodor (36:05)
+Gen, Andrei lucra pe o soluție web paralelă, pe o altă chestie, pe care încercau ei să mute produsul lor în web. Și eu lucram pe website. Solo percuția, basically. N -avea cinci să mă înveți, era doar Andrei ca și mentor acolo, dar asta era important, că era Andrei acolo care îmi răspundea la întrebări când mă rătăceam prea tare. Și... Da, și am stat, efectiv, cred că... 7 luni, 7 luni și ceva, am stat pe site -ul respectiv, am dat copy -paste de la Adobe cu căruța că...
+
+Lucian (36:06)
+Aaaa
+
+Super, taru!
+
+Aleodor (36:35)
+Să -ți dai seama că bar n -aveam câteodată mă uitam la CSU ăla și nu înțelegeam. Erau acolo niște... ți -mi minte și acum că se făceau niște transformuri de alea bidimensionale, știi? În așa fel încât să intre ceva în pagină. Exact. Și...
+
+Lucian (36:44)
+transform 2D, 3D, dar erau ceva chiar pe atunci poate ieșise astea erau transformările astea de CSS, nu mai știu cum se numesc, dar chiar erau la modă și evident toată lumea care vrea să facă animații cu CSS că își încordau mușchi un pic și să arate ce se poate. Ți -amintit că le -am folosit pe ceva iOS și Android, pe atunci era WebView la modă.
+
+Făceam și că cross platform în ghidii mele aplicații, dar de fapt era un fucking rapper care era un webview și toate le băga acolo și ca să se miște ceva să fie niște foloseam astea, CSS transitions chiar tocmai ce iesiseră, da, eram mai demult.
+
+Aleodor (37:29)
+Vezi că dacă te aud de lumea cu Webview, sunt o grămată de companii care încă fac asta. O să te înjură un pic acum, dar nu.
+
+Lucian (37:34)
+Care -ncă făc asta, da, nu?
+
+Bine, depinde și cum nu, cum dispozitivele sunt mai capabile. Înainte era foarte greu și greu îi mergea și nu era deloc responsive.
+
+Aleodor (37:50)
+Exact. Și tu o făceai pe un laptop sau pe un călător OK, când aveai un călător OK de muncă.
+
+Lucian (37:54)
+Da? Emulator frumos, da mergea bine pe view ala, pe web view ala, când îl puneai pe device și o împacheta era...megea tic tic tic tic secvențat așa.
+
+Aleodor (37:59)
+Exact.
+
+Da, mai deschideai si un Windows Phone care in spate avea un Windows real care era peciuit sa fie ceva pentru mobil, care manca 8GB de RAM sau ceva de genul asta si good luck sa se mai animeze ceva pe pagina aia.
+
+Lucian (38:11)
+Hai, da.
+
+Ia, ia, good point. Bine, mai stai asa, ca trebuie sa mergem un pic mai accelerat, asa, Andreea. Sa galopam un pic. Bun, ai ajuns la... stai asa putin, ne mai povestesti un pic si de la cealalta company care se numeste?
+
+Aleodor (38:23)
+Gata, accelerat mergem. Galopam.
+
+Andreea (38:23)
+Corect.
+
+Aleodor (38:33)
+Da, de la Ecrion am sărit la un moment dat, încăutam un loc de muncă pentru că, nu, când am trecut la full time oficial, după vreo, again, mai multe șase luni de zile, mi -au crescut și mie salariul și mi -l au crescut de la 12 la 16 milioane, la punctul ăla, și... De lei, da, da, da, da. Și m -am prins eu că e cam bătaie de joc, da, pe lună.
+
+Lucian (38:37)
+Ai s -a glăd?
+
+Delay Ron, alesul, bine. Peluna. Ok. Ati dat drum sau fiu singur? Ok.
+
+Aleodor (39:03)
+Și m -am prins eu că e cam bătaie de joc și am zis, bă, gata. Până aici a fost în cau de muncă. Și m -am dus la primul meu interviu, după perioada aia în care eu eram săracul, lovit de viață. M -am dus la primul meu interviu la BDFender. Unde ții minte și acum că am dat interviul la ei. Am stat și am lucrat super mult ca să fac testul ăla de interviu și așa. M -am dus, m -am văzut cu managerul, care era super impresed. Alin, care mi -e de altfel și un bun prieten acum. Și a fost impresed de interviu și de toate chestiile astea și...
+
+I... Mă duc la interviu să discutăm salariul și zic aș vrea și eu între 20-22 de milioane. La care e prima oară în viața mea și cred că ultima oară când s -a întâmplat începe omul efectiv să râdă în fața mea. Și a zis... Și după aia a devenit brusc serios dintr-o dată și mi-a zis... Da, da, da, o să vedem ce putem să facem. facem. Și a devenit foarte serios, dar iarăși...
+
+Lucian (39:47)
+A inceput sa -ti rada in fata...
+
+Aleodor (40:02)
+Nezău Sidea Sanatatei băia de nota 100. Când am primit oferta și am văzut 3600 de lei, efectiv m-am luat de cap. Eram ce se întâmplă? Stai, unde am ajuns?
+
+Lucian (40:14)
+Cred că mai puțin nu puteau să dea, că nu îți dă voie legea. Salariul mini pe economie cu unul care are facultatea sau care îi la facultatea nu ai voie să dai mai mult mai puțin de salari mini pe economie sau ceva. Sau poate că n -aveau ei grilele lor, la grilele nu exista mai jos de atât.
+
+Aleodor (40:26)
+Cred că atunci era...
+
+Da, da, da. Cred că atunci era 2200 salariu minim, 2200 -2300 dacă nu mă înșel. Deci puteau în teorie, suntem mai jos, dar au fost mega păiți și mi -au dat. Și aici am început, am intrat la Bitdefender și o să intră un pic accelerat, tocmai ca să recover time. Am intrat la Bitdefender în care am petrecut vreo 6 ani awesome.
+
+Lucian (40:35)
+Aha. Ok.
+
+Super, dar, cu ce?
+
+Mhm.
+
+Aleodor (40:56)
+E una din companiile care mi -au rămas la suflet. Este o companie în care este extrem de healthy să te lansezi ca și developer. Și zic asta cu toată căldura posibilă. Am muncit mult. Gen munceam. Am avut inclusiv... Nu că m -a pus cineva, dar pentru că vroiam să arăt că pot și că sunt și -maker și că merge, am avut inclusiv nopți în care am dormit la birou în așa fel încât să pot să ating deadlines -uri sau să liverez chestii la timp.
+
+Dar am intrat cumva în zona asta de development, după care a apărut oportunitate pentru mine să preiau o echipă de enterprise și am fost UX manager acolo pentru o echipă combinată de development și design cu niște oameni care mi -s extrem de dragi până în ziua de astăzi și ne mai și vedem din vreme în vreme și povestim. Știți care sunteți, vă pup pe toți. A fost cred că...
+
+Lucian (41:38)
+UX? Interesant!
+
+Aleodor (41:52)
+o perioadă extraordinară din cariera mea în care ne -am dezvoltat cred că toți și a fost foarte rewarding chestia asta când ne -am dezvoltat, toți accelerat.
+
+Lucian (42:02)
+Și ce anume vă lega cel mai tare? Ce simțiați? Că plutește în aer sau pe unde plutește astfel încât să vă conectați așa bine?
+
+Aleodor (42:11)
+Păi... cred că erau două chestii, în principiu. Prima chestie era că eram super transparent, unul cu celălalt. Și cumva am luat chestia asta și am încercat să o duc mai departe în toate echipele mele și în toate set -up -urile în care -l lucram mai departe. Dar la modul noi știam și când... Eu eram manager, să zicem, dar eu știam că nu am nimeni să duc la interviuri. Și eram la modul... baftă la interviu...
+
+Când te întorci, punem problema pe tablă și o discutăm să vedem cum am și făcut -o cu toții. Și era super rewarding, inclusiv exerciții de design făceam. Am avut vreo 13 proiecte atunci în Under the Wing și trebuia să facem un design pentru o platformă nouă sau pentru o zonă nouă. Modul în care făceam era mob design. Ne strângeam toți, începeam să gândim problema, după care Tudor, care e un designer extraordinar, cred că...
+
+Și acum e la la BDefender. El se apuca să traducă tot brainstormul ăla în ceva palpabil, real și implementabil. Da, senzația aia de mob designing, mob working în care stăteam toți și ne exprimam ideile și era un back and forth de asta constant, cred că asta ne -a făcut să fie.
+
+Lucian (43:27)
+un fel de brainstorming activ, un thinking out of the box, orice idee, nu e o idee proasta, genul asta de atitudine in care erati safe, va simteati in siguranta sa ziceti orice va trece prin cap astfel incat sa fie constructiv.
+
+Aleodor (43:43)
+Cred că exact asta era. Era super safe spații ăla. Da, și din punct de vedere design și din punct de vedere engineering, trebuie să recunosc, din punct de vedere management, uitându -mă în timp acum, eu nu trebuia să fiu manager. Cred că aveam nici...
+
+Lucian (43:47)
+Deci un spate sa fie safe.
+
+Dar tu acolo ai dat de manageriala, adica ai ajuns manager, engineer manager la Bitdefender.
+
+Aleodor (44:04)
+Da, da, da. Am lucrat vreo 3 ani ca și developer, acolo. La un moment dat am vrut să plec din BDFender. Punct la care Miță, un om super drag mie din BDFender, a venit la mine și după ce am plecat o săptămână, a venit și mi -a dat un șervețel și a zis consideră -l un BlackChang. Scriem cât vrei ca să te întorce înapoi și să preie echipa de Enterprise. Un șervețel, exact. Și ne -am...
+
+Lucian (44:27)
+Ce vreau să văd să -l...
+
+Aleodor (44:33)
+Și atunci am deciz să mă întorc și să preiau echipa de întreprea și am preluat -o ca și manager. Se numea UX manager, poziția și era poziție care superviza atât development -ul pe partea de UI cât și design -ul efectiv și era o echipă agregată de cele două. Și acolo am dat prima oară de design. Un set -up destul de weird în condițiile în care...
+
+eram mai tânări decât 3 sferturi din echipă că eram manager, cred că aveam, nu mai știu că aveam, 25, 24, 25 de ani eram manager și recunosc nu aveam skill -urile necesare să fiu manager la punctul ăla că nu le dezvoltasem activ doar s -a întâmplat să ajung manager pentru că munceam și mi -era drag să muncesc aveam o pasiune pentru ceea ce făceam
+
+Și atunci, cumva la pasiunea asta, am reușit să i -aliniț pe celelalți oameni și să lucrăm împreună.
+
+Lucian (45:28)
+Acum ca stii, ce skilluri simti ca ti -ai lipseau atunci si ai reusit sa le dobandesti? Sau ce skilluri trebuie sa aiba un manager adevarat?
+
+Aleodor (45:38)
+Da, sunt câteva chestii. Prima chestie o aveam și e singurul motiv pentru care eu cred că echipa aia a fost successful în ciuda faptului că eu nu aveam restul skill -urilor de management. Și anume e empatia. Dacă nu poți să empatizezi activ cu persoana cealaltă, să înțelegi ce înseamnă să fii în papucii lui, atunci, din punctul meu de vedere, o să fii un manager...
+
+care o să fie perceput mai mult sau mai puțin ca și tiran pentru că tu nu poți să te conectezi activ la oamenii tăi și să înțelegi ce se întâmplă pe măsură ce echipa evoluează.
+
+Lucian (46:17)
+Deci, să te pui în piele lor și tu pe atunci nu te prea pune în piele lor, erai așa mai ciopi mai. Gigigi.
+
+Aleodor (46:23)
+Aici să știi că astea ziceam că ăsta e skill -ul pe care l -am avut care m -a salvat. Ce n -am avut în schimb și erau multe altele erau câteva chestii esențiale. Cum să faci career management -ul unui om activ, cum să înțelegi ce vrea, care e motivation -ul din spate, care e core motivation -ului, de ce face asta, că sunt banii, că e pasiunea pentru tehnologie, că e pasiunea pentru oameni, că e...
+
+Lucian (46:27)
+Ah, care l -a avut inainte, am spus, ca salva, good point.
+
+Mhm.
+
+Aleodor (46:52)
+pasiunea pentru domeniul sau orice altceva. Partea asta de motivation, eu nici măcar nu știam să pun degetul pe ea, să zic că, băi, chestia asta e importantă. Partea de conflict management. Luckily enough, am fost în set -up -ul de o echipă unită, ca o echipă de fotba sau o echipă de sport profesionist unită, ăla era set -upul nostru și n -au fost extrem de multe conflicte. Dar ca și manager, fără skillul ăsta de conflict management, your set -up...
+
+să nu fie complet. Și, cu ultimul rând, este set -upul de... este knowledge -ul de project management strategic. Cum îți aliniezi ca la Age of Empires toate resursele și din punct de vedere computațional și din punct de vedere timp și din punct de vedere tot, în așa fel încă să te asiguri că principalele chestii care au impact asupra stakeholder -lor tăi,
+
+Lucian (47:34)
+Mm -hm.
+
+Mhm.
+
+Aleodor (47:48)
+și pe care, iarăși, ăla e un skill pe care trebuie să îl ai, să înțelegi stakeholder -i și cine sunt ei, care sunt principale resurse și cum le investești în așa fel încât să obții maximul de impact posibil. N -aveam chestia asta. Eram în toate proiectele, dacă se poate pe toate să le supralivrăm, în toate să mă mulțumim pe toată lumea, ceea ce este un set -up din punct de vedere management design to fail.
+
+Lucian (47:59)
+Interesant. Nu.
+
+Andrei, ati pasati micul?
+
+Andreea (48:25)
+Da, m -am curiositat, probabil că sunt multe și am putea să povestim până mâine cu Aleodor aici. Eu totuși aș merge mai departe și cu riscul de a sări peste câteva etape și să merg direct la etapa de hai s -o dregem dacă nu mă înșel. Și te aș întreba, Aleodor, acum să ne spui care e poziția ta actuală, ce faci tu acum și să ne dai...
+
+Lucian (48:28)
+Vă mulțumesc frumos pentru vizionare!
+
+Dă -l!
+
+Aleodor (48:43)
+Ok.
+
+Andreea (48:51)
+3 exemple de provocari pe care le întâmpini și cum le rezolvi în momentul de față.
+
+Aleodor (48:57)
+Cea mai mare plăcere. Deci, acum sunt Engineering Manager în cadrul SNIC. Ce fac? Mă ocup de partea de SNIC -ul ca și companie. E pe zona de Cyber Security, orientată către Developer. Noi ne asigurăm că aplicațiile pe care tu le creezi, codul pe care îl scrii, e cât mai healthy posibil. Cu acest foarte puțin context, o să intră în zona aceea ce fac eu. Ceea ce fac eu este să...
+
+analizez codul pe care ni -l dai si dependentele codului pe care ni -l dai si sa incercam sa iti deschidem PR -uri automate pentru tine in care sa iti fixam posibile probleme de securitate. Asta fac eu ca si scop in viata in momentul asta. Sunt Engineering Manager, am o echipa de 6 oameni absolut superbi si o sa se mareasca pe la vreo 8 -9 in curand. Si care sunt Challenger -urile? Pai...
+
+Primul și cel mai mare challenge sunt Expectations și Managing Expectations. Mai ales în zona de startup, cu cât ești într -o corporație mai veche, mai cu experiență și acolo o să existe Expectations mari, dar lumea tinde să fie un pic mai realistă cu ceea ce se poate face. Cu cât am observat, eu merg inspre zona asta, mai inspre startup, mai inspre o companie care în continuare agilă, se agită pe piață, ca să zic așa.
+
+Coatăt, expectation -urile sunt foarte, foarte mari din partea stakeholder -ilor, din partea clienților, din partea întregii lumii din jurul tău. Primul challenge pe care îl am activ constant este să manejiuiesc expectation -urile astea și să -mi fie foarte clar pe cine pot să let down în toată equația asta. Nu e o întrebare
+
+Lucian (50:49)
+Pai clar că nu poți să îi relaxezi pe toți. Pe unii o să îi nervezi, pe unii o să îi calci, pe unii o să îi... o să le apeși butoane. Interesant.
+
+Aleodor (50:54)
+Exact.
+
+Exact. Exact. Deci, skillul ăsta de prioritizare, să îți înțelegi care sunt principalele tale priorități, e principalul challenge constant pe care îl am. Și câteodată, s -ar putea să pare total nenatural și aici mă duc în zona aia de transparență pe care am luat -o de la prima echipă și de la prima experiență.
+
+zona aia de transparență să le explici oamenilor de ce ei deciziile, de ce ai lista asta de priorități și de ce ai decis să tai aici în listă, e super mega importantă în așa fel încât să creezi un healthy set -up pentru echipă. Deci prima chestie, managing expectations și setting priorities. Le -aș pune cumva la bundle pe chestia asta. Al doilea challenge, destul de mare, suntem noi.
+
+Noi, as in, any developer, any product, any QA, anything else. În corporații, în companii, în tot ce vreți, lumea are tendința să uite că lucrăm cu oameni. Oameni cărora le sembolăvește o pisică, partenerul poate să aibă o zi proastă și trebuie să investească ceva extra timp în relații în așa fel încât el să fie bine mai târziu.
+
+Lucian (52:08)
+Aștept.
+
+Aleodor (52:21)
+Poate pur și simplu are o zi proastă el ca și individ și are nevoie de spațiu să breed out și să se reîncarce. Eu ce am descoperit până acum în industria asta IT -ului, și nu numai, este că am venit cu set -upul ăsta al nostru și am pus niște așteptări complet nerealiste pe cum funcționează oamenii. I -am luat și i -am creat, mai mult sau mai puțin, ca și niște mașinuțe. Ar trebui să livreze, ar trebui să respecte standardele astea tot timpul.
+
+eventual over delivering, over achieving, over everything, dacă se poate. Challenge -ul numărul 2 pentru mine, cel mai mare este să înțeleg fiecare din oamenii cu care lucrez, să le înțeleg contextul, să știu când pot să apăs pe pedală și când nu. Ăsta e, cred eu, overall, aș zice că până acum feedback -ul pe care l -am primit pe partea asta de pricepla management, e overwhelmingly positive.
+
+Dacă este o chestie la care aș putea să atribui treaba asta, este exact pe lucru asta. Că îți încerc să fiu conectat tot timpul la oameni să înțeleg când pot să apăs pedala și când au nevoie de un breather.
+
+Lucian (53:30)
+Te rog.
+
+That's nice! Foarte binezis! Si da, sa simta ca faci terapie. De cat timp faci terapie, bai doi? Daca cumva e...
+
+Aleodor (53:40)
+Am făcut cred că un an și -ună -și înmătate, cam așa. Nu e atât de mult, dar nu subestimați terapia pe care o faceți cu prietenii.
+
+Lucian (53:52)
+Eu mai am 3 foarte scurte curiosități dacă îmi dă voi, Andreea, un minut la fiecare să gădil un pic. Cât 3 mici chestii. De ce public speaking și ce anume?
+
+Aleodor (53:56)
+Foarte scurte.
+
+Așa.
+
+De ce public speaking?
+
+Lucian (54:06)
+După aceea mai bag și alte două fii să -i scurtă
+
+Aleodor (54:10)
+Îmi place super mult public speaking -ul pentru că e un context în care poți să impactezi pozitiv mulți oameni in a one shot. Un bănuiesc că ați văzut, acum, tocmai ce a ieșit acum vreo săptămâne și un pic în timelineul acestui port screa posibil să fie mai mult, mi -a ieșit primul meu TEDx, care este exact pe partea asta de human nature, de cum să avem greje de noi, de cum să...
+
+Lucian (54:19)
+Mhm. Ok.
+
+Aleodor (54:37)
+Ne asigurăm că impactul ei aiului asupra vieții e unul pozitiv, nu unul negativ.
+
+Lucian (54:43)
+Te degături unde? Unde le -ai ținut? Viena, wow!
+
+Aleodor (54:46)
+TEDx in Viena, da, e la Technical University of Vien, e o universitate destul de prestigiut din zona asta si ruleaza in fiecare an un TEDx concentrat cumva pe lumea asta a tehnologiei. Si anul trecut am fost si eu invitat sa fac parte din speakerii de acolo si am livrat un TEDx la care nu va dau spoilere, dar sunt 13 minute care cred eu ca merita.
+
+Lucian (55:10)
+Dar ne dai link. Un link sigur găsim pe YouTube.
+
+Aleodor (55:17)
+pe YouTube, da, l -am tăit în decembrie, a ieșit după patru luni jumătate de editare, copywriting checks and so on.
+
+Lucian (55:23)
+E, nice, nice. Ce ta. Uai, in primul rand felicitari ca e o achievement. Si in al doilea rand, da, e un curaj mare pe care l -ai bagat acolo si deci si un instrument. De acum ai devenit public speaker. Foarte pe scurt din nou. Ce te -a motivat?
+
+Aleodor (55:27)
+Vă mulțumesc!
+
+Ie!
+
+Cred că mă întorc acolo la început. Am început să fac câteva workshop -uri inițial și dincolo de workshop -uri cred că în momentul în care am început să predau prima oară mi -am dat seama că ceea ce spun și modul în care pun framework -ul ăsta nu doar că îmi place foarte mult dar e fix modul în care pot să am impactul la pozitiv de pe care mi -l doresc eu.
+
+Lucian (55:45)
+Exact.
+
+Mm -hm.
+
+Să plecem.
+
+Și cum îți place și te hrănești din faptul că oamenii îi smulțumiți de ceea ce primesc de la tine, eh? There you go!
+
+Aleodor (56:10)
+Ce atunci?
+
+Exact. Și ușor -ușor m -am prins că, ok, I need to scale this. Pentru că one on one e doar o anumită limită de timp pe care o am să pot să o șiruesc cu lumea și să make the world a better place. Și atunci trebuie să -mi polișez partea asta de cum transmit mesajul, cum vorbesc, în așa fel încât să pot să fiu acceptat și nu numai acceptat, să pot să fiu privit pozitiv în momentul în care fac public speaking.
+
+Lucian (56:24)
+Da, clar.
+
+Bun, gata cu public speaking. Speaking of a world, a better place, what? Making the world a better place for you, povestește -mi de dating și de ce complicate.
+
+Aleodor (56:58)
+De dating și de ce e complicat? Uf! Asta e complicată. E întrebare de back, cum se -ar zice.
+
+Lucian (57:05)
+E complicat și tot e complicat și faptul că vorbești despre asta e complicat că e complicat dating dar dă -ne un pic din casă, zine, zine un pic
+
+Aleodor (57:12)
+Da, exact, exact. Să dau un pic din casă. Am avut și aici mai multe reflexionuri, și cu terapeutul, și cu prietenii, și cu toată zona asta. Ideea e în felul următor. Tărțaam zis că eu am avut o relație foarte lungă, de vreo 14 ani, cred că 14 ani n -am stat niciodată să -i număr exact, dar pe acolo. Și în momentul în care am ieșit din relația, am intrat cumva în dating call și am început să mă văd cu alte dipe.
+
+Lucian (57:29)
+Mhm.
+
+Aleodor (57:41)
+Și... mi -am dat seama, cel puțin așa e...
+
+Lucian (57:45)
+Stai să țin un pic, acum 14 ani nu era Tinder, nu?
+
+Aleodor (57:48)
+Acum 14 ani ne -am cunoscut gen la Coru Scoli Ca sa intelegi nivelul de atunci
+
+Lucian (57:50)
+Ok.
+
+Ok. Bun. Acum folosești tehnologia pentru sau nu? Doar de curiozitate. Ok.
+
+Aleodor (58:00)
+Initial nu. Initial am zis ca, ok, time to go the classic way. Mergi in baruri, mergi in puburi, explorezi lumea si incerci sa cunosti oameni. Si mi -am dat seama ca people don't really do that anymore. Adica in momentul in care mergeam la o masa la cineva si incercam sa approach pe cineva eram privit un pic ca un weirdo si cum eu sunt un pic...
+
+Lucian (58:10)
+Mhm. Ok.
+
+Aleodor (58:26)
+Hiper sensibil la stare omului și la modul în care se simte omul. Îmi dădeam imediat seama de asta și mă fâstăceam și eram gen lost and gone din punctul ăsta de vedere. Așa că...
+
+Lucian (58:36)
+și la rejection ești sensibil sau nu? Nu?
+
+Aleodor (58:39)
+Nu, nu am neapărat o problemă cu rejection -ul, dar dacă eu impactez negativ oamenii din jurul meu, acolo am o problemă. Adică...
+
+Lucian (58:47)
+Te simti, are cumva efect in sufletul tau.
+
+Aleodor (58:51)
+Exact, am ca un lashback din reacția oamenilor sau din modul negativ al oamenilor de a se simții. Așa că la un moment dat am zis ok, time to go tech. Și am luat -o la mână. Tinder, Bumble, Facebook. Și am început să ies la Datory.
+
+Lucian (59:00)
+Ok.
+
+Ia, sa -ti facem.
+
+Aleodor (59:16)
+Și am realizat că e un gap foarte mare din modul în care percep eu viața și modul în care percep oamenii cu care mă întâlnesc viața.
+
+Lucian (59:29)
+Păi explică -ne un pic ce fel de gapă e, de ce?
+
+Aleodor (59:34)
+Ok, we go deep then. Am trecut prin mai multe relații în perioada asta și cred că sunt câteva chestii care mi -au reișit, dar mai ales din perioada de dating, nu știu dacă neapărat din perioada de relații. Dar am observat că lumea a devenit un loc semnificativ mai superficial sau cel puțin acolo așa l -am perceput eu. Am început să ies la...
+
+câteva date -uri de pe aplicațiile astea, fie retinder, fie bumble, fie whatever. După cum observați, pentru că suntem aproape la 2 hour mark în podcastul ăsta, mie îmi place să dezbat viața și să intru să povestesc cu oamenii deep.
+
+Lucian (1:00:13)
+Să povestești!
+
+deep, îți plac deep conversation, deep connections, meaningful, not shallow și superficial.
+
+Aleodor (1:00:22)
+Exact. Și dacă intri pe Tinder și bumble, ai zice că exact asta vrea lumea. Gen, ma 'am, unul la unul, match in heaven. Te duci un pic în viața reală, începi să mergi la un date, să ieși să vorbești și îți dai seama că it's not really like that. Adică lumea e un semnificativ. Oamenii au tendința să fie semnificativ mai superficial.
+
+Lucian (1:00:28)
+Da, da!
+
+Aleodor (1:00:49)
+sau unii oameni au tendința să fie semnificatii mai superficiali sau și mai corect oamenii la care am avut eu norocul să mă expun au tendința să fiu un pic mai superficial și de asta, ăsta e primul milestone in dating life is complicated. Al doilea milestone in dating life is complicated e Mama m-a învățat în felul următor și cumva încă ader la chestiile alea. Băi, mamă! Scoți o fată în oraș, să nu te pună dreacu' să plătească fată. Adică, ori ești gentleman, ori ce mama naibii?
+
+Trage scaunul fetei, ai grija, te porti frumos, esti baiat bun, esti nice, o duci acasa, te asiguri ca e safe toate chestiile astea. Te comporti in perspectiva bigger system ca un gentleman sau ca un nice guy. Well, to all the nice guys out there, tough luck man! Cel putin din experienta mea, it doesn't really work.
+
+Lucian (1:01:32)
+Un Gentleman.
+
+nu funcționează
+
+Aleodor (1:01:49)
+Sau nu functioneaza asa bine precum te astepti sa functioneze. cum ar trebui sa faci pentru Ca pe hartie toata lumea cred ca in momentul in care scrii pe hartie asta vrea dar nu e neaparat realitatea din ce asteptari au fetele, well, unele fete, fetele pe care le-am intalnit eu mai exact, in general.
+
+Lucian (1:02:09)
+Da, am înțeles. Voi, mulțumim frumos că te -ai vulnerabilizat în halul ăsta cu primire la dating system. Da, într -adevăr. Deci, uite, pare secete bântuie așteptările astea, așteptările despre viață, despre dating, despre așteptările greșite sau așteptările nerealiste sau neîmpământate, hai să le zicem, cumva îți fac viața amară dacă le lași să își materializeze.
+
+Aleodor (1:02:18)
+Da.
+
+Lucian (1:02:39)
+Ești în esența. N -ai cam filozofată de am rupt -o pe asta.
+
+Aleodor (1:02:41)
+Exact, exact. E super binezis. Cumva cred că pentru mine a fost un big adjustment pe care a trebuit să -l fac. Pentru că, again, nu o înțelege greșit. Sunt fete foarte, foarte mișto și am fost în câteva relații în ultime ani care din păcate n -au mers din diferite motive, dar au fost cu tipe foarte, foarte mișto și nu aș putea să zic altceva. Spune.
+
+Lucian (1:03:06)
+Da, uite. Super. Ca sa inchiem Fetele Mișto și Relatile, 3 lucruri, 3 cuvinte care de fapt materializează ceea ce tu îți dorești la o relație. Mă aștept la o relație amuroasă, o relație de... Eu știu. Hai să zicem, o relație amuroasă, punct. Zi tu restul. Care sunt 3 lucruri care pe tine te interesează să o ai la o relație amuroasă?
+
+Aleodor (1:03:11)
+Mhm.
+
+Mhm.
+
+Ok. Stabilitate, încredere, cred că încrederea e fundament și it goes both ways și... Nici n -a ști cum să spun asta în cuvinte. Deschiderea la a fi emoțional sau sensibil în față de celălalt. Suntem foarte... Exact. Suntem foarte individualiști noi așa și ne învață societatea asta să fim din ce în ce mai individualiști. Eu, după cum observ...
+
+Lucian (1:03:42)
+Crede -te? Nice!
+
+dar vulnerabilizare.
+
+Aleodor (1:04:05)
+Eu cam dau drumul la carcasa asta de detestoasa și las acolo să fie expus. Cumva mi -e greu să găsesc oameni care să se expună sau care să aibă încrederea să se expună.
+
+Lucian (1:04:18)
+care să fie transparent și deschis în halo asta cum ești tu de altfel. Ok am înțeles. Bun. Mulțumim. Și ultimul lucru mai un pic, mai un pic. Ce anume faci să -ți păstrezi life -work balance? Ce anume te ajută pe tine astfel încât ok ai serviciu dar ai viață de eu știu...
+
+Aleodor (1:04:23)
+Exact, exact.
+
+Lucian (1:04:41)
+Acum probabil că nu ai neapărat acum viață de familie, relație, stuff, dar totuși, familie, familie extinsă, familie există. Și mai e ceva care cumva umple lucrurile sau care cumva reglează chestiile. Ce -i la tine acel ceva?
+
+Aleodor (1:04:45)
+Mhm.
+
+Exact.
+
+E o combinatie de ceva, ori, să știi. La mine e așa, e sportul, joc basket și volei și în momentul în care sunt în set -upul ăla mă încarcă super mult. Mă încarcă pe lângă faptul că, după cum observ, sunt iarăși sporturi sociale. Adică ne vedem acolo și pe lângă faptul că jucăm în basket, mai facem și o caterincă în proces.
+
+Lucian (1:05:01)
+Super.
+
+Te încarcă cu ce?
+
+Coi energie?
+
+Aha.
+
+Bun!
+
+Aleodor (1:05:23)
+Sau pe lângă faptul că jucăm în volei, mai facem și o caterincă în proces și mă încarcă foarte mult atât din punct de vedere, ok, mă mișc, mă eliberez, eliberez endorfine, mă resetez mental, mă pun într -un set al mai bun, dar mă și expun la oameni și interacționez cu ei, which is like a social boost pentru mine. Asta odată, după care cărțile Fantasy rămân slăbiciunea mea absolută.
+
+Acum sunt în Explorarea Lumii lui Sanderson. Nu știu dacă știți de Brandon Sanderson, dar este un genius. Și acum am intrat în cele cred că sunt mai mult de 27 decăți de acum pe care le -a scris și toate sunt în același univers și mi -a fost frică să intru în el timp de ani de zile. Sunt mai multe serii, dar care la un moment dat sunt din universul care se numește Cashmere.
+
+Lucian (1:05:49)
+Te află.
+
+Wow, serie de 27? What? Aha, care toate au...
+
+Aleodor (1:06:15)
+Și la un moment dat, o să se unească, o să se clasuească între ele. Și, again, omul e un freaking genius.
+
+Lucian (1:06:21)
+Da, da, da, da Am auzit despre, trebuie să recunosc, dar nu am băgat să citesc Dar am auzit de soția mea e super, hai să zicem, poate obsedate mulți pus de cărți de genoase Are tot ce -i trebuie, inclusiv book talk -ul e la nivel superior Eu știu indirect despre ce -i vorba, dar primesc sumar
+
+Aleodor (1:06:34)
+Hehehehe!
+
+Atunci clar știe de ele, îți zic, sigur.
+
+Da, da. Și partea asta de fantasy și de cărți e super prezentă în viața mea în continuare. Pe partea de familie, sorul meu mă conectează super mult inclusiv la realitate și oarec de pup și mă conectează super mult la realitate, la realitatea generației mai noi, mai ales fiind cu 16 ani mai mică ca mine. E acolo pentru noi și oricum relația noastră e super mega apropiată.
+
+Lucian (1:06:57)
+Te frum.
+
+Aleodor (1:07:19)
+Și, last but not least, board games and Dungeons & Dragons. Nu știu dacă ați auzit, ați interacționat. Dar mie îmi place foarte mult să mă joc Dungeons & Dragons și am o gașcă de oameni cu care mă joc și mă încarc chiarăși super social, mă încarc chiarăși pozitiv din interacțiunea și din timpul cu ei.
+
+Lucian (1:07:26)
+Da.
+
+Deci din nou, ai pornit în viață ca introvertit, geek și uita ce -ai ajuns!
+
+Aleodor (1:07:44)
+Exact, ce ai fost și ce ai ajuns, mă, mamă!
+
+Lucian (1:07:48)
+Exact! Andrea!
+
+Andreea (1:07:50)
+Da, mergem către partea de final și mai avem încă trei întrebări. Două de la noi și una de la invitatul nostru anterior. Așa că bag eu ofi să și încep, Aleodor, dacă ai putea să te întorci în timp, cu mintea de acum, în ce moment te întoarce și ce spață -i da. Și ca să fie cât mai scurt, gândește -te că acum în fața ta ești tu la acea vârstă, să ne zici și nouă vârsta și efectiv transmite -ți faptul.
+
+Aleodor (1:08:18)
+Ok. Cred că ar fi prin clasa 11 -12 când început simt să mă stresez foarte mult de unde mă duc și ce fac cu viața, dar cred că era fără valăide și pentru anii facultate. Și cred că singurul lucru pe care mi -l aș zici este să...
+
+Să te duc duc open mind. Ideea este că atât timp cât îți puteți încării efort și ai o pasiune și îți dezvolți o pasiune pentru ceea ce faci, o să îți găsești drumul. Indiferent de forma drumului respectiv. Nu contează cum arată, dar oamenii valorează mult mai mult dedication -ul, munca pe care o pui și pasiunea.
+
+decât orice knowledge crezi că o să iei în facultate, orice framework -uri, orice cărți, orice chestii. Just do the work, rezultatele o să apară.
+
+Andreea (1:09:09)
+Te -ai crede? Te -ai asculta?
+
+Aleodor (1:09:14)
+Că dacă da. Că dacă da.
+
+Andreea (1:09:15)
+Atât! Bun!
+
+Lucian (1:09:18)
+Mai ales să nu uităm că era relativ veneș a se traduce optimizat eficient în procesul de a...
+
+Aleodor (1:09:25)
+Exact!
+
+Andreea (1:09:28)
+Bun, aleodor un număr de la 1 la 10
+
+Aleodor (1:09:33)
+de la 1 la 10, 4.
+
+Andreea (1:09:36)
+Daca ai putea avea o cina cu orice personalitate istorică sau fictivă, cine ar fi acea persoană și ce întrebări ai pune?
+
+Aleodor (1:09:51)
+Ok, răspunsul e dublu aici. Dacă e posibil, întotdeauna aș alege să am o cină cu tata. Tata a murit acum 2 ani și un pic. E unul din oamenii cei mai importanti din viața mea și întotdeauna aveam momentele alea în care ne sfătuiam împreună și stăteam și povesteam, îi povesteam ce fac și el își dea dea cu părerea. Atât cât știa și de unde știa, îi plăcea să -și dea cu părerea să vorbim despre chestia asta. Clar.
+
+Asta ar fi prima chestie pe care aș face -o. Iar dacă nu e asta o opțiune, că nu vrem să revive people, opțiunea numărul 2 este Clar Obama. Din punct de vedere, public speaking este mai god -level example. Cred că i -am urmărit absolut toate instanțele în care a făcut public speaking, modul în care se exprimă, pattern -urile pe care le are siguranța, mimica, totu'.
+
+Mi se pare că e unul din cei mai buni public speakeri internațional vorbind. I would pay a lot să pot să stau la masă cu el și să povestim câteva ore să iau niște insight -uri din căpușorului de acolo.
+
+Lucian (1:11:06)
+Fain, wow, super tare!
+
+Andreea (1:11:11)
+Super! Lucie, e fisa ta cea invitatului anterior, care se leaga foarte bine in intrebarea aleasa de Aleodor.
+
+Aleodor (1:11:12)
+Absolut.
+
+Lucian (1:11:14)
+Ia
+
+Chiar că bine zici, uite Madalina ne te întreabă dacă ar fi să colaborezi cu o persoană importantă din lumea de tech cu cine ai face și de ce ai ales, de ce ai elege, ce ai elege. Adică cu ce persoane din tech ai vrea să lucrezi?
+
+Aleodor (1:11:37)
+Ce persoane din tech aș vrea să lucrez? Hard question. Sunt mai mulți oameni. Dar eu am un respect deosebit pentru oamenii cu foarte multă experiență și oamenii care au strâns așa sau expus la foarte multe chestii. Cred că mi -ar placea foarte mult dacă ar fi posibil să lucrez cu Shantanu, care este CEO -ul Adobe, una din companiile la care eu am lucrat.
+
+Și este unul din oamenii aia CEO care mi se par atât de echilibrați, au un mod atât de cald, worm, empatic de a fi și de a comunica. Stilul lui de leadership mă inspiră super mult și m -a inspirat super mult și mi -ar placea să am o oportunitatea să lucrez cu el să pot să învăț de la el. It's a long shot, dar dacă se întâmplă, domnul Shantanu, dacă auziți asta, vă rog frumos, vă las să nu mă lume telefon.
+
+Lucian (1:12:29)
+Ce fain!
+
+Ha ha ha!
+
+Pai hai zine si cum ajung oamenii care ne -au ascultat la tine cel mai bine, LinkedIn poate sau X sau whatever
+
+Aleodor (1:12:45)
+Cu cel mai mare drag. Nu sunt pe X, mai ales acum că am înțeles că vor te taxezi și ca să faci prima postare sau whatever. Nu sunt pe X, sunt pe LinkedIn. Puteți să mă găsiți. Cu cel mai mare drag vă stau la dispoziție. Eu fac foarte mult mentoring cu oamenii din industrie. Așa că dacă aveți întrebări de orice natură sau dacă vreți un sfat pur și simplu, cu cel mai mare drag vildrau.
+
+Lucian (1:12:51)
+Ok.
+
+Aleodor (1:13:11)
+Chiar îmi face plăcere. Nu e o chestie de nebunie. E plăcerea mea să facă asta cu cât mai mulți oameni posibil. Și da, cred că LinkedIn -ul e the best way for all. Oricum, dacă scriți pe Google Aleodor Tabarcea, găsiți tot ce vreți acolo at a glance.
+
+Lucian (1:13:29)
+Bine, și zine și tu o întrebare pentru următor invitațile și invitați -le, tăi rog.
+
+Aleodor (1:13:35)
+Următorul invitațile și invitată. Ok. Păi, întrebarea mea e în felul următor. Dacă ai putea să run a company, ai o companie a ta și vrei să run it, să fii liderul companiei respective, ce ar face compania respectivă și de ce? Ținând cont că nu trebuie să fie profitabilă sau ceva, by default ai toți banii de care ai nevoie ca compania să funcționeze.
+
+Lucian (1:14:05)
+Spas fieci un ONG, practic.
+
+Aleodor (1:14:07)
+Poate să fie și un ONG. Absolut. Întrăboarea e...
+
+Lucian (1:14:09)
+Deci mergem pe antreprenoriat social posibil. Așa am bate gândul că ajungem acum.
+
+Aleodor (1:14:13)
+Absolut.
+
+E o întrebare care te ajută foarte mult să faci discovery pe zona asta. E întrebarea aceea pe care îți opui dacă nu ar trebui să -mi fac greșe de bani și de nimic în viață. Ce -aș face eu? Dar dusă un pic scalată, pentru că ce -aș face eu e întotdeauna să te duci înapoi și te gândești la limita energiei tale sau la limita energiei tale din momentul respectiv. În momentul în care o expui la ideea de o companie sau un ONG, cum ziceai tu, limita aia
+
+Lucian (1:14:28)
+Ce -aș faci?
+
+Mhm.
+
+Aleodor (1:14:46)
+Iese un pic de necoație și poți efectiv să -ți lați imaginația să galopeze.
+
+Lucian (1:14:52)
+Super, mulțumim de întrebare, foarte tare și cred că mai rămas un pic, dacă vrei să anunți ceva ai chestii de anunțat ale tale, personale sau profesionale într -un fel sau altul.
+
+Aleodor (1:15:05)
+Nu țin neapărat să anunț ceva, vreau doar să... o să -i spun două chestii. Unu, dacă vreți să ascultați TEDx -ul meu despre living a better life sau finding a better balance, check it out. Cred că... cred că a ieșit decent. Nu a fii el mare -șmecherie, dar a ieșit decent overall. Și pentru cei care... e în îngleză, exact.
+
+Iar pentru cei care sunt din zona de București, aș putea să zic că eu rules o comunitate, se numește Stories of the Web. Și odată la două luni aducem oameni foarte mișto care să ne povestească din industrie fără any other agenda, adică nu acceptăm chestii de recruiting, chestii de promovare sau orice altceva. Sunt efectiv povești ale oamenilor din industrie care vin și ne zic cum a fost să lancezi un produs, să construiești ceva, să...
+
+te extins pe piață. Ne găsiți pe meetup .com și dacă vreți să vă alăturați vreodată, vă aștept cu mare drag.
+
+Lucian (1:16:09)
+Ați auzit? Stories of the Web Nice Foarte drăguț Foarte drăguț Mai Aleodor A fost excelent, e lung dar cu multe insight -uri așa cum au fost ele trăite de tine, îți mulțumim frumos și ne bucurăm că ți -ai alocat timpul ăsta
+
+Aleodor (1:16:12)
+Exact.
+
+Și eu vă mulțumesc tare mult. A fost o experiență tare mișto. Adică mi -a plăcut. Îmi pare rău că a fost de mult. Cred că trebuia să fiu mai atânt la început când povesteam toate sidequest -uri la la. Dar... dar da. N -am realizat cât înseamnă două ore. De fapt, o oră ar fi trebuit să fie, nu?
+
+Lucian (1:16:38)
+Stai linistit, nu ai pregătere, nu ai presiunea. A fost super fain.
+

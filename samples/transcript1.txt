@@ -1,0 +1,659 @@
+Lucian (00:01)
+Bine ai venit, Aléodor, mai e cată energie bună cătă... Noi te și vedem, restul nu te voie. Ce faci? Cum ești azi?
+
+Aleodor (00:10)
+Avem de la excellent în sus. E în mijlocul zilei așa, m -am rai -ampuit până acum cu ședințele, cu colegele, am povestit, am glumit ce am făcut în weekend una alta și acum eram, mamă, e momentul perfect pentru zeamă de developer, zic. Să facem să întâmple! Voi ce faceți, cum sunteți?
+
+Lucian (00:27)
+Super tare! Uita -mai bine, cu si cu soare si fara soare, cu sufletul in pacat, cu entuziasma la locul lui, tocmai am trat si noi, cred ca vineri nu a fost Andrei, am trat si noi YouTube Channel intro, de abia asteptam sa vedem cum iasa, ne -am prostit mult acolo, asa Andrei, zic cum ai simtit totul!
+
+Andreea (00:40)
+Viner!
+
+Da, s -a lasat cu niste scule de bucătărie furate că suntem în România, dar e ok.
+
+Aleodor (00:57)
+Stai asa, stai asa, voi fiind aia care au... Voi ați repatriat scurile de bucătărie sau altcineva?
+
+Lucian (00:57)
+E, nu, nu, nu, stai, stai, nu a fost furate, a fost luate. Asa zi.
+
+Stai că cu sculele de bucătărie e o poveste. Eu n -am înțeles de ce dar am vrut să iau niște scule de bucătărie să vedem că poate facem să ne jucăm ceva cu ele. Și eram cu ele în mână, am înregistrat whatever, le -am lăsat pe o bancă și am plecat să înregistrăm mai încolo. Și între timp a venit ori un copil care vrea să facă chestii, cum zicea Andreea, ori cineva mai învârstă care a zis, uai ce tel de inox, fain, ia hai să vedem dacă l -a lăsat cineva aici pe masă, why not? Și l -a luat, ae. Nu ne plângem.
+
+Aleodor (01:34)
+Un țeles. Să fie sănătos, cum s -are zice să -l folosească fericiți.
+
+Lucian (01:35)
+Orcon. E Sofia Sanator.
+
+Andreea (01:41)
+Dar da, a fost un...
+
+Aleodor (01:41)
+Imi place tricoul tau Lucian, scuze.
+
+Lucian (01:41)
+Bia man!
+
+Da, da, da. E de fapt pentru Q -Engineers, dar îmi place să -l porn și eu, apoi nu în vedere că pot să joc mai multe roluri. Citește -l cu voce tare, că poate nu știu.
+
+Aleodor (01:53)
+I get to tell the developers their baby is ugly.
+
+Lucian (01:59)
+Aaaaah!
+
+Aha, deci era constructivul lui, nu?
+
+Aleodor (02:11)
+Era super constructiv și era o chestie care la final, după ce dezvoltai un feature, o bucată din produs, un serviciu, faptul că știai că e QAO acolo care vrea să te dea de pământ, nu alta, îți dea așa o liniște mentale, că știai că dacă nu m -a dat el de pământ sau ea, înseamnă că suntem all good. Da.
+
+Lucian (02:31)
+Deci ai o plasa de siguranta, te simteai linistit in siguranta ta acolo.
+
+Aleodor (02:37)
+Exact, exact. Acuma cu toată industria asta mutându -se către Unified Engineering sau General Engineering sau cum n -ai Basonului să mai numi acum, mă uit un pic și văd că ar trebui să dăm singur cu noi de pământ. E un concept un pic, un pic anevoios. O procesez mai greu câteodată.
+
+Lucian (02:56)
+Și uneori ți scapă lucruri că nu le poți testa chiar pe toate, adică suntem oameni, avem... E foarte greu să și faci munca, să și validezi, și procesezi, și testezi, și verifici, și liverezi, nu? Să cred că am zis asta. Full Stack Inginieri cu QA role încorporat, vă rog.
+
+Aleodor (03:12)
+Ho, și -a urmă cu de toate, vă rog!
+
+Dacă se poate și un pic de product acum și că nu avem echipă de marketing, hai să dăm și o campanie.
+
+Lucian (03:22)
+Atât!
+
+Exact! Asta e bun! Bine, mai, aledor! Hai să vorbim un pic despre aici la Zeamul de Developer, după cum bine știm. Povestim despre momentul ăla când ai început să -ți descoperi calia către programare sau cum ai ajuns tu să -ți solidifici cariera asta în tech. Povestește -ne un pic cum a început și când nu mai simți pasiunea în suflet pentru tech.
+
+Andreea (03:52)
+Înainte și scuze că interviu puțin Suntem curioși de istoria numelui tău Știu că eu la început când ne -am cunoscut Am zis Apolodor în loc de Eleodor, deși era foarte asemănător Așa că dă -ne puțin din casă, te rugăm
+
+Aleodor (03:53)
+Aha.
+
+Bă, vă voi zic câteva din casă materiale de calitate. În primul rând, trebuie să știți, părecla mea când eram în Bacău, când eram șoarec, cum se zice la noi în zonă, era Aoleu -Pateu. Deci gândiți -vă voi cum se ajunge de la Aleodor la Aoleu -Pateu, dar ideea este că aia era părecla când eram undeva prin școala general. Dar Apolodor este una din variantele cele mai utilizate și cele mai safe, realistic vorbim.
+
+Acuma, de unde vine? Bunicul meu era super pasionat de povesti și citeau o grămadă de cărți, în special Biblia, dar și alte cărți pe lângă. Și una din poveștile care au rămas așa cu el era Aleodor Împărat și a zis, ța -iță, ăsta e numele pe care îl pun băiatul meu când se naște. S -a născut băiatul...
+
+Lucian (04:55)
+Ale!
+
+Păi stai, eu povestesc spatele împăratului sau doar pentru că era împărat?
+
+Aleodor (05:04)
+E o poveste întreagă de cum ajunge Aleodor împărat. E o poveste foarte simpatică. Recomand să o citiți dacă aveți timp. Dacă nu puteți să ascultați melodia Apolodor de la Adamila, că e la fel de bună pentru numele meu. Dar, astea fiind zise, nu întoarcem la bunicul. Bunicul pleacă setat, mă duc la primărie să -i pun lufeu în menumele Aleodor. Ajunge la primărie, până la primărie, la fiecare casă, cum se obișnia.
+
+Lucian (05:18)
+Aaaa, ce -i toată!
+
+Aleodor (05:34)
+Te opresti, s -a născut ficiormiu, hai noroc, păhărelul peste cap. Când ajungi la primărie, nu mai e așa de clar cum ar trebui să scrii Aleodor, așa că numele lui tata a ajuns să fie Ale Dor, tabarge. Close enough. Ale Dor. Atât a s -a putut. S -a mâncat un pic acolo pe parcurs. Dar, după ce am mai trecut o generație, a zis tata, tata, eram băiat serios și a zis, împreună cu mama s -au hotărât, de fapt și de drept...
+
+Lucian (05:36)
+Ha ha ha!
+
+Ale dor!
+
+De tău!
+
+Aleodor (06:03)
+decizia mamei au fost, cât tata au încercat acolo, au zis că nu vreau să o supăr, dar mama au zis, gata, te dată asta, la generația asta o corectăm și o și scrim corect. Deci, eu zis, lui tata, ai misiune, te duci, dar vezi să scrii toate literile, că dacă nu te mănânc. Și așa a ajuns, a ajuns sumochemea leodor, lucrul de care mă simt super binecuvântat, că cumva de -a lungul anilor e un nume care rămâne foarte ușor cu lumea, că în orice context mă aș duce. Fie local, fie mai...
+
+Lucian (06:18)
+Hehehehe!
+
+Aleodor (06:32)
+Internațional.
+
+Lucian (06:34)
+Rămâne impregnant, nu e unul tipic, clasic pe care îl uiți repede.
+
+Aleodor (06:41)
+Da, și toată lumea face un pas în spate așa și... Aleodor? Gen, chiar așa te cheam? Dar după aia, bine, nu o să... Trebuie să recunosc că odată ce am început să interacționez cu oameni mai internațional, gen din state, de prin Europa și așa, marea majoritate se rezumă la Ale, pentru că Aleodor devine ce vrei tu dar numai Aleodor, nu? Aliodor, Alodor...
+
+Tu -l putești namea așa ajunge danul ale odor.
+
+Lucian (07:13)
+Da.
+
+Bine, mai mulțumim de poveste foarte pregut și chiar Adamilia cântă ceva despre Aleodor de data asta. Apolodor, ok.
+
+Aleodor (07:22)
+Despre Apolodor. Este balada lui Apolodor, Pinguinul Apolodor. Si e o balada asa de suflet pentru mine. Descrie... As putea zice ca intr -o oarecare masura imi descrie viata.
+
+Lucian (07:37)
+Bun, apănește pe -a în discuide.
+
+Aleodor (07:39)
+N -am cum să spun.
+
+Lucian (07:41)
+Bine, mai. Hai să te așteptăm la întrebarea mea.
+
+Aleodor (07:44)
+La cum am început cu programarea, nu? Bun, păi... În direcția mea de carieră au fost trei etapi diferite. Prima etapă era bunica și mama care au vrut să mă facă popă. S -au uitat la fața mea, au zis, arată ca băiat cu minte, pare ce trebuie, m -au trimis pe la strană în biserică să cântă acolo cu coru, chestii și așa, au zis, ăsta popă se face. Au zis la mine.
+
+Am crescut un pic și au dat seama că nu se pregătează chiar așa de bine pe personalitatea mea overall și am ajuns în perioada liceului acolo când am început eu să -mi iau... mă rog, să presupunem. Influențat am început eu să iau niște decizii ale mele și m -am hotărât că vreau să mă fac neurolog să merg pe partea asta de medicină și am și început să învăț și să învăț și chimie și biologie. Gata, mă pregăteam să dau examenul de intreale la medicină. Norocul meu și zic noroc la cel mai...
+
+în cel mai real mod posibil, este că erau cu un an mai mare un prieten care a plecat la medicină, a ajuns acolo, eram în echipa de basket amândoi, că am jucat foarte mult basket în liceu și îmi zice, bă, e groasă. Am ajuns în prima săptămână acolo, o trebuie să cumpăr' skelete, o trebuie să cumpăr' cărți, o trebuie să cumpăr' nu știu ce, m -au ajuns vreo 30 de milioane, cum încă vă mai vorbeam la momentul ăla.
+
+Lucian (09:12)
+Uai leu, dar de ce trebuia sa cum? Nu puteati sa folositi materialele scolii.
+
+Aleodor (09:17)
+O să fiu sincer cu tine, mintea mea de atunci a nu investigat foarte mult lucrurile astea.
+
+Lucian (09:22)
+Iar ok, asta trebuie asta fac. Ok.
+
+Aleodor (09:25)
+Până acolo, când am ajuns să asta fac, am stat eu așa și m -am gândit, îmi aduc amintit perfect și momentul cum stăteam în curtea școlii pe banc acolo și îmi povestea omul că o să recită ai lui în timp ce facea asta și mi -am dat eu seama că... Păi, diunii mă, boiatule! Stai așa un pic... Mamă! Da, da, da! Exact! Adică noi ne desc...
+
+Lucian (09:42)
+Tot cu actie, nu? Aja? Ia!
+
+Aleodor (09:48)
+Doamne ferește, nu pot să mă plâng, dar ne descurcam, basicly, de la lună la lună în Bacău. Taci mi -a avea un job, maică mi -a... Era casnică la perioada aia, mai făcea aia prin croitoriei, una, alta și așa, dar... Cât să ne descurcăm. Tocmai să născuse sori mea, am o sori mai mică, cu vreo 16 ani jumate decât mine, era un... Mulțam, mulțam. Și era o zonă destul de complicată să ne descurcăm noi cu finanțele așa. Și mi -am dat seama că până aici a fost...
+
+Lucian (10:07)
+Aoleu, nice! Multimenta!
+
+Aleodor (10:18)
+Nu m -am prins. Nu merge medicina. Și am început să mă uit în jur.
+
+Lucian (10:21)
+Deci, dar stai, stai, sa inteleg medicina nu s -a potrivit din cauza ca nu aveai suficient bani sa investesti in materiale si ce iti mai trebuia. Aha, deci era o bariera destul de ridicata de intrare ca aveai nevoie de materiale. Dar e interesant cum de nu au sustinut sau scolile nu sustin chestia asta.
+
+Aleodor (10:29)
+Absolut. Absolut. Adică în momentul în care am început...
+
+Mm -hm.
+
+Ideea este că... Cumva eu mental mă pregătisim că o să vin în București și la punctul ăla, nu știu cum... Nu știu dacă vă mai aduceți aminte, dar salarile de rezidenții erau... Mizeri. Mă bucur tare mult că într -i timp au ajuns ceva mai decente. Dar în momentul ăla erau mizeri și mă gândeam la modul cel mai serios că o să stau, basicly, pe capul lui mama și al tata încă 7 -8 ani de zile până o să ajung și eu să mai fac un band pe lângă. Și și așa, asta era un streci destul de mare.
+
+Lucian (10:54)
+Cur!
+
+Aleodor (11:11)
+Cumva în momentul în care a venit colegul ăla și mi -a zis că uite cât de costă ca să faci facultatea, adică eu nu lăsăm deloc în considerare costurile alea, mi -am dat seama că a clicuit ceva în cap și mi -am dat seama că ba, n -am nicio șansă să o termin. Adică, realistic vorbind, n -o să o termin. Așa că hai să ne reorientăm un pic în viață, să vedem ce mai știm să mai facem. Și aici ajungem la alte poveste destul de amuzante și intrăm în zona de cum am ajuns eu să fiu programator.
+
+Bun. Print. Spune.
+
+Lucian (11:43)
+Dar stai un pic, inainte sa imi zici cum ai ajuns, unde esti tu acum? Unde te afli tu acum si de unde vorbesti cu noi?
+
+Aleodor (11:52)
+Sunt în București, sunt stabilit în București cred că de vreo 11 ani de zile cam așa și lucrez ca și engineering manager în cadrul SNIC, este un startup care nu e chiar startup, este așa mai mult într -un hyper growth că avem vreo 1000 și ceva de oameni. Scale up, da, da.
+
+Lucian (12:10)
+Scala, scala, growthul de hyper și foarte hyper.
+
+Aleodor (12:16)
+Tindând cont că avem cred că vreo o grămadă de poziții deschisii în momentul ăsta, cred că ne încadrăm la hyper growth pe zona asta. Adică în continuare compania merge super bine. Și da, asta fac acum. Am trecut cumva prin journey -ul de developer? Absolut.
+
+Lucian (12:24)
+Să -l fun.
+
+Deci ești manager, ta inginer. Așa, bun. Acum că avem context, zine cum a început ca să ajungem în cadru până la... ia voi!
+
+Aleodor (12:40)
+Așa facem. Așa facem, da. Păi, în perioada aia, jucam... Pănesc că multe lume a început din programare pe partea asta de jocuri. Adică am început cu GTA -ul ăla care se vedea de sus, nici măcar nu era 3D. După care eu am fost super mega pasionat de Age of Empires. Mi -aduc amintit și acum, cred că prin clasa a 8 -a, când mi -au luat AMI primul calculator, am cărat Age of Empires 2 de la școală.
+
+pe 37 de dischete. Acum, nu știu dacă vă mai amintiți cum era, dar...
+
+Lucian (13:14)
+De 1 ,44 de megabytes? Discheta? Ai ai ai...
+
+Aleodor (13:18)
+Exact. Exact. Exact. Și nu știu dacă vă mai amintiți cum era, dar cel puțin la noi în școală era pusă chestia aia de să își dea restart sistemul, basicly, de fiecare dată când se termina o zi. Ceea ce înseamnă că toate arhivele tale, care când te echimui să le împarți acolo pe ea în arhive egale, în așa fel, se ștergeau. Și trebuia să ajungi în ora de informatică și în alea 60 de minute să îți faci arhivele, să te rogi la Dumnezeu să se sparcă arhivele exact cum s -a spart la trecută,
+
+Lucian (13:33)
+Da. Să -ștergeau complet.
+
+De asa!
+
+Aleodor (13:48)
+Așa? Și să -ți iei următoarele când aveai încât 3... cum zici? Dischete. Și să -ți iei următoarele 3 dischete, să -l duci acasă, să -l dai copy -paste. Bine, asta după ce prima oară, ca să înțelegeți nivelul, am dat copy -paste la shortcut -ul de la HM Parse. A dat asta putut!
+
+Lucian (14:04)
+Atât a fost! Și n -a mers, evident!
+
+Aleodor (14:08)
+Și am zis, păi ce șmecherie, deci pe o dischietă de asta intre tot Age of Empires -ul? Da. Și... Da, și cumva din zona aia, în momentul ăla, ca să vă faceți o idee, în clasa 8 -a, când mi -au luat aia mi -i primul oară calculator, au trebuit să fac rate. Gen, au făcut rate pe 2 ani de zile ca să -mi ia primul calculator, un Pentium 3 cred că era.
+
+Lucian (14:11)
+Poate să intre tot, dar 20 de biți...
+
+Uau!
+
+Dar cum ei convins de ce te -o luati ies?
+
+Aleodor (14:38)
+foarte amuzant. Ai zice în mod normal că mama, ăsta este un geniu programatic sau ceva și i -au luat calculator pentru că se vedea că e o sclipire acolo. Nu, ești pe departe. La un moment aveam un sistem admin, îl chema George, în școala generală numărul 15 din Bacau. George, dacă auzi cumva podcastul ăsta, să -ți dea Dumnezeu sănătate. Și George i -a zis într -o zi, lui tata, bă...
+
+Lucian (14:48)
+Asa. No.
+
+Vă mulțumesc frumos!
+
+Aleodor (15:07)
+Tu stii cum organizeaza documentele alea Word? Mamă, le face cu aliniate, cu paragrafe, cu tabele, tot ce trebuie.
+
+Lucian (15:18)
+Deci te -o umflat un pic in ochii parintilor.
+
+Aleodor (15:23)
+Da, da, da. Și a venit tata acasă și a zis... Asta e. Dacă băiatul e geniu, nu putem să nu îi luăm calculator, hai să punem mână de la mână și să îi luăm un calculator. Și efectiv, când mi -au cumpărat primul calculator, au făcut un credit pe 2 ani de zile sau ceva de genul ăsta, ca să poată să îmi ia primul Pentium 3. Tare drag, mie, ei până în ziua de astăzi că au făcut asta. Nezeu să te dea sănătate și lor. Da, bun.
+
+Lucian (15:44)
+M -a...
+
+Ce fain. Deci chiar se pare că te -au susținut, chiar dacă povestea a fost un pic înflată, uite că s -a dovedit a fi drumul bun într -un fel sau altul.
+
+Aleodor (15:56)
+Absolut.
+
+Absolut. 100 % Câteodata ii mai aduc amintiri mama. Mama, ti -mi mai aduci aminte cand... Staiam o ora, o ora si ceva pe calator si veneai la mine si erai... Aaaa, stai pe calator, pierzi viata in fata calatorului, nu -ti faci nimica cu asta! Si acum sunt la modul... Na... Stau 90 ore pe zi in fata calatorului... Gen... Asta -mi face banii! Da.
+
+Lucian (16:10)
+Ha!
+
+Ha ha!
+
+Exact! Da? Se schimba lumea, sigur! Bine, hai mergem in mai departe cu povestea unde eram!
+
+Aleodor (16:26)
+dar acolo!
+
+Mergi mai departe cu povestea. Acolo am intrat un pic în lumea asta jocurilor și am început să mă joc și World of Warcraft, Silk Road și alte chestii MMO. Jocuri din care de altfel am început să învăț engleza pentru că conform dirigintei mele, de la vremea aia, doamna Simeon se trăiască, mi -a zis că nu o să vorbesc nicioată engleza. Bine că eu sunt un român adevărat.
+
+Lucian (16:44)
+Uhu.
+
+AHA! Si tu ai patit asa! Oh my God! Dar ce -ti cu profesoarele azi? Eu am patit cu profesoara de engleză de la meditații care mi -a zis ca eu nu o să invăz niciodată engleză. Eram în clasa 12 ani. Deci eu și plăteam! După aia nu am mai plătit -o. Adică le -am zis părinților, a, știi că m -au descurajat, că nu știu ce, și după aia nu am mai plătit -o. Dar da, deci nu înțeleg. Chiar dacă pui efort...
+
+Aleodor (17:07)
+De la meditație o mai iși plătei.
+
+Lucian (17:21)
+Că se vedea că depuie fort sau depunem efort, dar cum să vină descujașarea asta ca o lopată peste față?
+
+Aleodor (17:29)
+N -am ideea. Erau un pic, cred că, diferite principiile de educație atunci. Cred că lopata aia era menită să te încurajezi. Ia, de aici o lopată, hai ca să prins și tu un pic de tupeu în viață. Dar, a fost o dirigintă super ok. Adică femeia era, tot respectul pentru ea, super, super ok, doar că, n -a, i s -a părut ei că eu nu o să prind niciodată engleza în viață. Și ca să o apăr, până în ziua de azi sunt prafula gramatica.
+
+Lucian (17:36)
+Aha!
+
+Da, bun punt.
+
+Aleodor (17:58)
+Adică când vine vorba de gramatica limbi înglezei este efectiv după ureche. Ațăt' a s -a putut. Da.
+
+Lucian (18:03)
+Cum sună? Sună bine, nu sună bine. Da, vezi că și asta e o chestie. Ai ascultat sau ai vorbit? Nu, ai ascultat mai mult atât a Engleză încât știi cam cum trebuie să sune bine.
+
+Aleodor (18:15)
+Da, da, absolut. Și filme după care la un moment dat am început să citesc cărții în engleză, că m -ai nervat traducerea în română și de la un punct a fost un click că am citit numai în engleză tot timpul. Dar cam asta m -a ajutat să ajung să fiu fluent într -o limbă în care aparent nu aveam neapărat un dar anume. Da, dar revenind, că am făcut o colișură grămadă.
+
+Lucian (18:40)
+Super!
+
+Aleodor (18:41)
+World of Warcraft Silk Road și la un moment dat m -am împetitit cu... unul din cei mai buni prieteni ai mei până în ziua de astăzi, Manu care e în Bacău, s -a întors în Bacău între timp și ne -am pus, ne -am gândit noi hai să ne facem propriul nostru server de Silk Road. De ce? Că aveam un server de la niște turcaleți care ne cereau bani ca să facem orice, în principiu. Noi sărachii, ei aveau serverul, cereau bani, ceva nu se lega acolo. Așa că am început...
+
+Lucian (18:56)
+E... colo?
+
+Aleodor (19:11)
+În felul ăsta să încercăm noi să ne dăm seama cum facem un server de Silkroad pe care să -l hostăm și să încercăm să ne jucăm pe el. E un mod foarte brutal de a te expune la programare pentru că efectiv nu știi nimic. Dar...
+
+Lucian (19:24)
+Vă mulțumesc frumos pentru vizionare!
+
+Nu stiu, acum m -am uit peste Silk Road, e ca un fel de World of Warcraft ca idee, numai ca... e open source server -ul sau cum ați găsit să programați?
+
+Aleodor (19:41)
+No, ceva pe niște forumuri super dubioase, nu știa aici ce downloadez. Am reușit să luăm imaginea de server de undeva. Nu știi să -ți... Nu, nu mi -aduc aminte să -ți mai zic exact de unde. Dar ideea e că ne -am trezit la un moment dat că aveam imaginea de server și dați seama... noi nici măcar nu știam cum să o pornim. Exact. Dublu click nu făcea nimic. Doar dădea niște erori.
+
+Lucian (19:47)
+Aoleo!
+
+Ce trebuie să faci cu ea? Unde să o pun pe asta, mă? Punem...
+
+Aleodor (20:09)
+și a fost un întreg proces în care să ne dăm seama exact ce se întâmplă acolo și ne -a ajutat super mult. Absolut.
+
+Lucian (20:15)
+Dar ți -a fost determinați practic, că dacă nu erai determinați, o lăsați la primul dublu click, nu se întâmplă nimic. Deci motivația era puternică în spate. De ce? Să vă jucați pe serverul vostru, să nu vă mai facă nimeni regulile mele.
+
+Aleodor (20:21)
+Absolut, absolut.
+
+Exact, cum adică să ne certu 10 dolari ca să ne luăm... Mă rog, era o chestie în joc cu o armă mai șmecheră. Dacă dădeai 10 dolari, alții puteau s -o cumpere. Și erau foarte mulți care o cumpărau. Pentru noi 10 dolari... Nu era chiar de aici, de colo. Și eram la modul...
+
+Lucian (20:40)
+Da, sa inteleg ma un pic, Silkroad asta nu avea un server original unde puteai sa intrii sa platesti sau ceva sau nici ala nu vreiai sa pentru ca acolo se platea
+
+Aleodor (20:55)
+Și acolo era aceeași problemă. Basicly, noi ne jucam și pe server original, dar era... Bine, atunci aveam foarte mult timp în viață, dar era un joc care progresa foarte greu. Adică trebuia să grinduiești next level, să te ai ore și ore și ore și ore și te jucai. Și de asta căutam server -le astea alternative, de pe la turci și prin alte zone, unde găseai cu viteză de 3x, 4x pe experiențe și pe chestii, în așa fel încă să te poți bucura mai într -un mod normal de joc, cumva.
+
+Lucian (21:19)
+Mmm!
+
+Aleodor (21:25)
+Dar da, exact așa cum ziceai și tu, inclusiv pe la public, oamenii aveau foarte multe avantaje din faptul că băgau bani în joc. Iar noi eram... na. Mici, cu mult timp liber, tocmai ce ieșis albumulul 50 Cent îmi aduc aminte și acum, mergea 50 Cent pe fundal cu Candy Shop și noi încercați să ne dăm seama cum să ne facem un server de Silk Road.
+
+Lucian (21:44)
+Aaaaaiiii...
+
+Zic cat volat! Si ati reusit?
+
+Aleodor (21:52)
+N -am reușit atunci, cred că am stat săptămâni și n -am reușit. După care am început să ne jucăm pe un server de World of Warcraft privat. Acolo am început noi să mai prindem una alta și să mai vorbim cu alții care făceau aceleași lucruri. Și cred că years later, cred că prin clasa 11 sau a 12 am ajuns într -un final să reușim să ridicăm serverul ăla, dar n -am reușit, știu că n -am reușit să -l ținem pentru mai mult de 5 -6 oameni.
+
+Că de, calculatoarele noastre nu erau făcute să țină un server de Silkroad. Dar trebuia să ne și explice cineva asta la punctul ăla. Plus, nu, nici internetul nostru nu era neapărat făcut pentru un server de Silkroad. Dar a fost o experiență foarte mișto și cumva ne -a băgat în zona asta de programare. Și cumva în paralel, în școală, începusim să învățăm a 9, a 10, cred că am făcut C++ Pascal.
+
+Pascal mai mult și un pic de C++ high level și după aia în clasa 11 -a nu mai țin minte cum îl chema pe profesor dar a venit și ne -a prezentat C -Sharp și a fost pentru noi mind -blowing. Gen într -un final făceai chestii și vedeai vizual că era WPF -ul Windows Presentation Forms și puteai să -ți face efectiv un kenar acolo pe care să apești pe un buton. Am făcut la un moment dat un quiz de asta.
+
+Lucian (23:20)
+Interactiv!
+
+Aleodor (23:22)
+Da, da, da. Făceai un quiz de personalitate, să selectezi chestii și după aia să -ți arate o poză în funcții de personalitate. A fost o perioadă super fun de explorat tehnologia și cred că acolo m -a prins, realistic, vorbind. Adică ăla a fost momentul în care, când am ajuns în clasa 12 și mi -am dat seama că medicina nu o să funcționezi, m -am uitat în jur și eram la cealalt ceva mă mai pricep. Na, păi, last. Și...
+
+Da, și cumva așa am ajuns în partea asta cu .NET -ul, cu C -Sharp -ul și Windows Presentation Forms. Și de acolo am prins curajul... Am zis așa... E varianta politehnică, dar toată lumea care se ducea la politehnică se plângea de viață. Basically... Exact. Teme peste teme, în sesiune toată lumea era panicată, proiecte... Grav.
+
+Lucian (24:12)
+Era o tristotie...
+
+Păi, asta pentru că oamenii mergeau la Politehnica să învețe programare și, surpriză, surpriză, era matematică ultra avansată, să făcea fizică, programare de abia din semestru 2, ceva finuț, pentru că înainte învățai diagrame, logice și chestii de acolo. Te lua cumva de la 0 pentru că nu aveau impresia că cei care vin acolo știu programare. Dar ăștia care au făcut în liceu, au făcut cam degeaba, că startul era tot jos, numai că...
+
+Era multe, multe materii foarte aspre, inclusiv teoria sistamelor și alte chestii care vin eu mai târziu.
+
+Aleodor (24:56)
+Da, da, cumva am fost martor că Manu, prietenul ăsta foarte bun al meu, a decis să se ducă la Politecnică. Nu am ce să -i fac, el vreau să fie mai serios decât mine. Și cumva am fost acolo în timp ce a trecut prin toate temele Pământului, prin toate laboratoarele super complicate. Și da, când m -am uitat, m -am uitat Politecnică, mai era Universitatea.
+
+la universitate era cu admitere la București. Da, mă uitam pe București, clar, pentru că toată gașca venea cumva la București. Și...
+
+Lucian (25:27)
+De asta e București, nu? Vorbim de București, deci? Ok.
+
+A, am înțeles. Deci, dar liceul l -ai făcut unde? Unde ai petrecut și copilăria? Ok.
+
+Aleodor (25:39)
+Liceul l -am făcut în bacău. Eu sunt original din Bacău Wood, cum s -ar zice, pentru cei care nu știu să caute melodia pe internet. Este o opere de artă. Bacău Wood ca Hollywood, basically. Doar că e Bacău Wood. Este o adevărată opere de artă, melodia aia. Vă recomand, dacă o să deveniți obsedați de ea, să nu mă înjurați după aia. Și am făcut liceu...
+
+Lucian (25:50)
+o bacă ud fără spațiu am înțeles ok ok
+
+Aleodor (26:09)
+Cel mai bun liceu din Bacau de altfel, Gheorghe Vrânceanu din de acolo și un liceu mostly de olimpici și copii cu rezultate foarte bune. De altfel și eu am avut o încercare să mă bag în destul de multe olimpiade și am învățat super mult matematică în special. Aveam un diriginte de matematică, Lazer Lucian, băiat, în nota un milion.
+
+care m -a învățat o tonă de matematică și gândit logic și toate astea și cumva m -am dus un pic pe zona aia de olimpiadă de matematică, dar așa cum îi place lui să -mi zică, am fost prea puturos. Capul mă ducea, dar nu bogam muncă.
+
+Lucian (26:38)
+V -am.
+
+Dar nu bagai munca. Erai mai eficient, cautai sa fii foarte eficient spre exemplu sa investesti cat mai putin timp cu rezultate maxime, nu? Are sens.
+
+Aleodor (26:59)
+Exact, exact.
+
+Mie mi se pare că e un prerecuzit să fii un developer bun. Bottom line, dacă nu ești un pic leneș în ecuația asta, nu înțelegi greșit, nu eram leneș, că învățam super mult, am avut așa cumva un context cu aia mei acasă, mai că mi -am encorajat super mult să investesc în educații și mi -a transmis cât de importantă e educația și am fost gen...
+
+Nu stiu, cred că am terminat liceu cu 9 ,98, abar o chestie din genul ăsta, o nebunie din punctul multor de vedere, cred că și din punctul meu de vedere acum, când mă uit înapoi, dar sunt super recunoscătorul la mai cât mai am făcut asta. În același timp, îmi placea să programez. Într -un timp, tot cu Manu, făceam, exploram cum să facem niște boță de poker ca să ne îmbogățim. Nu știu dacă ați auzit de zinga poker, de Poker Stars.
+
+Lucian (27:56)
+NICE!
+
+Aleodor (28:00)
+E de aia că încercăm noi să facem niște combinații, să facem boția aia să joace singur, în așa fel încât... Nau, promisiunea oricărui developer cum se covine, să se înfogățească ușor. Da, și... Nu a ieșit. Nu a ieșit, normal. Am surprins... Absolut. Cu tot net.
+
+Lucian (28:00)
+Cum să am învăța?
+
+să vă aducă profit.
+
+Deci, nu a iesit? Nu a iesit? Da, ma gandesc. Dar v -ati manjit manile un pic. Cu doar dintre ce ați integrat? Cu ce? Poftă star?
+
+Aleodor (28:27)
+cu Zynga Poker și cu Poker Stars, da. Și recunoșteam cărțile, dădeam click pe cărți...
+
+Lucian (28:29)
+Singa.
+
+Da, aveau ei ceva API sau pur si simplu interfața ați făcut cu ceva selenium? Ce Dumnezeu? O CR au Doamne Dumnezeu! O CR Optical Character de Căgnișă!
+
+Aleodor (28:37)
+Interfață, OCR.
+
+Da, da, da, nu. Gen... Am fost... Și ca să dăm click -urile, iarăși, nu aveam API, nu aveam nimic, am mutat mouse -ul pe ecran acolo, unde trebuia să mutăm mouse -ul și dădeam click.
+
+Lucian (28:48)
+Nega smaker!
+
+ai ai ai...si făceați arățită automat să faceți asta deci practic partea de interfață era extrem de complicată că practic trebuia să emulezi activitatea umană atât vizual cât și acțiune și după aia partea de inteligență ce ați făcut la inteligență? rule based system ceva
+
+Aleodor (28:59)
+Da, da, da, da. A fost...
+
+Mhm!
+
+If, if, if, if, if, if, if, if, if, if, if...
+
+Lucian (29:20)
+Da, deci rul baisis. Ifelsi, felsi, daca are aș, dai bă! Daca n -are aș, nu da!
+
+Aleodor (29:26)
+sau, cum se zice în ziua de azi, inteligență artificială.
+
+Lucian (29:32)
+Aha, da. Narrow intelligence. Base. Rule base.
+
+Aleodor (29:36)
+Da, da, da. Nu, găsim... Făcusem noi foarte multe reguli care ajunsesem noi la un anumit set de reguli. Mult, mult, la un moment dat eu am fost invitat... Invitat, don. Implicat sporadic, așa, pe parcursul proiectului. Manu a fost mult mai hands -on cu el pentru că, la un moment dat, chiar încerca să -l ducă mai departe. Uite, poate îl chemați, o dată pe Manu să vă povestească în zeamă de developer că e un background cum nu se poate mai diferi fața mea.
+
+Lucian (30:04)
+Nice! Cum are drag? Sigur!
+
+Aleodor (30:06)
+Suntem super prieteni, am mers pe același drum de programare, dar nu cred că îți poți imagina cât de divergent îi poți arate drumurile astea. Dar da, asta am făcut, gen rule -based și aveam noi în spate acolo niște combinații bune la ce cărți puteai să ai și ce poți să -și joci.
+
+Lucian (30:14)
+Interesant.
+
+Ați și testat inteligența asta, motorul ăsta, individual, ai când izolare?
+
+Aleodor (30:35)
+Absolut, absolut. Rulala au umandat si cate 10 -12 jocuri in paralel si aveau un win rate punicel. Era de peste 60 % win rate -ul jocurilor, ceea ce la vremea aia si mai ales pentru noi era mama, suntem peste 50%, suntem blana. Da, da, da. Si jucam foarte mult pe Virtual Coins. Nu jucam pe bani reali si Virtual Coins si eu ea ii fiindem mai tarziu.
+
+Lucian (30:45)
+V -ați mulțumesc frumos pentru vizionare!
+
+Da, jucati micro stakes, nu? 50 de bani sau 50 de... Ok.
+
+Aaaa, se strângea. Interesant. Nice.
+
+Aleodor (31:06)
+Da. Și asta a fost explorarea acolo cu .net -ul. Cumva așa am și ajuns să învăț .net. Chiestie care cumva m -a ghidat și revenind la universități. Polii, prea multă muncă. Universitate, părea mult prea serioasă lumea acolo, mult prea implicată cu admitere cu chestii. Și am zis, bă, eu am nevoie de un facultate unde să pot să mă duc și la facultate, dar să pot să -mi iau și un job pe lângă să mă întrețin că devenisem...
+
+foarte acut conștient, ca ei probabil nu o să mă poată să mă țină în facultate. Chiestii care s -au zis dovedit reală mai târziu. Dar ideea este că am venit și am zis gata, AS, cibernetică, pare the place for me. Aveam întajuns de multă informatică sau cel puțin așa părea la prima vedere. Lumea îmi zicea că, mea, în AS -ul e chill. Deci avea semne bune, ca să zic așa, că poate aș putea să am un job în paralel.
+
+Și 3 la mână se intreau doar cu dosar, după cum v -am zis. Deși nu arată, dacă vă uitați așa, la activitatea mea profesională per total, sunt un om relativ leneș. Dacă se poate lua o scurtătură, aș lua o, n -aș minții că nu.
+
+Andreea (32:21)
+Aleodor, dacă ne uităm după liniata cronologică pe care ne -ai scris -o în bio, unde suntem acum?
+
+Lucian (32:21)
+Lenește galii, Eficie? Spune -l, Andrescu!
+
+Aleodor (32:30)
+Deci am luat... Am trecut un pic pe partea de... V -am zis că data de fabricare, în primul rând, e 92 pentru toată lumea de acolo din afara. Vin din Bacău. Am fost inițial sau cel puțin... Și acolo e o chestie interesantă, dar eram relativ introvert și tocilar și după aia ne mutăm la capitolul de ianițica adulțiale, unde începem să intrăm în partea asta de liceu. V -am povestit un pic de liceu.
+
+Ce n -am menținut din liceu e faptul că am băut foarte multe beri și am ascultat foarte multă muzică rock. Ăsta era set -up -ul la vremea aia.
+
+Lucian (33:09)
+Aoleu, erai rocker ai avut si plete sau fara?
+
+Aleodor (33:14)
+Fără plete, aveam părul afro mare și era mai complicat cu cuplete la punctul ăla. Vărul meu, cu care am crescut împreună și cu care și acum suntem destul de apropeați că e și el în București, el era ăla cuplete. El făcea show, eu eram backup support acolo.
+
+Lucian (33:15)
+Vă replăt!
+
+Anei...
+
+pe cap suport dădește din cap dar la tine era mai flat un pic
+
+Aleodor (33:39)
+Da, dar nu era asa impresionant, adica... da.
+
+Lucian (33:43)
+Erei rocker sau hardcore -ist?
+
+Aleodor (33:47)
+Nu, nu, nu. Eram rocker. Cred că vărul meu era Cosmin, el era mai hardcore -ist, venea dintr -o familie de rocker cu tot ce trebuie. Tata, lui tata -i aplăcut viața și mi -a arătat câte un pic din de toate. Așa. Dar cumva zona asta, mai ales de loc alternativ, aia m -a prins pe mine, dar în același timp, v -am zis, ascultam și 50 Cent, Eminem, deci era un pic oșaorma cu de toate.
+
+Lucian (33:56)
+Fălă!
+
+Să dădeai spațiul foarte frumos. Mai înmă un pic. Spune, spune, nu te întâlge. Hai, bagă.
+
+Aleodor (34:16)
+Da. Deci am trecut acum. Spune.
+
+Ziceam că am trecut prin Ianițica adulțială, unde e partea asta în care am încercat să mă prind cu ce se mănâncă viața și ce ar trebui să fac în direcția asta. Și o să intrăm în capitolul, dar mai dă o dreacu'.
+
+Lucian (34:37)
+Atât. Bun. Pentru oamenii care ne ascultă să înțeleagă despre ce vorbă o să postăm nu știu încă cum că e în premieră. Avem un bio special pe care Aliodor l -a făcut și e foarte vizual. Are și un grafic pe care puteți să -l urmăriți ca să înțelegeți despre ce vorbim și îți sunt anumite inflecțiuni dacă le pot zice în graficul ăla. Aș vrea să povestim despre graficul ăla un pic ce înseamnă X sau Y.
+
+Dacă tot timpul înseamnă aceeași chestie, ca pe AX sau OX, e clar că e timpul, după cum mi -am dat seama. Doar un pic context, dar acum aș vrea să îți dau ție alături microfonului.
+
+Aleodor (35:05)
+Mhm.
+
+Um...
+
+Absolut, absolut. Deci dacă o să vă uitați pe graficul ăla, axa o Y este, cred că aș putea să zic, e un mix între starea de bine și starea mentală. Care mi se pare că e o chestie foarte importantă în viață, pentru că trebuie să realizezi că, indiferent ce faci, mai devreme sau mai trăi zi, viața ți -o dă într -o formă sau altă. Și atunci...
+
+Lucian (35:27)
+Mm -hmm.
+
+Aleodor (35:41)
+Eu am încercat să pun pe graficul ăsta, pe lângă partea cronologică, care este foarte abstractă, gen nu încerca să găsiți o logică în ce e acolo. Este doar așa o idee generală cronologică, așa, și pe OY am zis, bă, hai să fac un pic de reflection moment și să -mi dau seama cam cum eram în punctul ăla, din punct de vedere financiar, mental, cât de happy, cât de deschis, cât de conectat eram.
+
+Și am încercat să abstractizez toate chestiile astea care sunt valori unei vieți bine trăite, aș zice eu, în axa aia OY. Cam asta înseamnă OY.
+
+Lucian (36:16)
+Ce fain, foarte frumos explica. Nu cred că putea mai bine de atât să explice cineva. Bineînțeles, autorul acelui grafic deosebit de aș zice expresiv și totodată și interactiv. Andreea, îți pasăție curiosități dacă ai despre...
+
+Aleodor (36:22)
+Ha ha ha ha ha ha ha ha ha
+
+Ie!
+
+Andreea (36:37)
+Da, eu sunt foarte curioasă să mergem mai departe, deci suntem ia mai de o dreacu, nu? Nici nu pot să pronunț ca tine, Leodor. Ce se întâmplă aici în etapa asta? Dar înainte, ceva ce n -a rămas în mintea mea, spuneai că ai vrut preoți medic la început de tot până să dai cu nasul de calculator, să înțelegă cumva visul respectiv sau pasiunile respective sau șterzi încă dinainte să ajungi la liceu. Cronologic vorbind.
+
+Aleodor (36:43)
+Exact.
+
+Să ajung preot aka popă, să zice la noi acolo în zonă. Nu era visul meu. Din păcate, fericire, noroc, nu știu să -i zic, bunicul de pe taică meu era crede în Dumnezeu în toate astea, dar era foarte împotriva instituției bisericii. Eu am crescut la bunici, o bună parte, gen verile acolo erau. Așa funcționa pe vremea mea, așa funcționa vara.
+
+Lucian (37:31)
+Mhm.
+
+Aleodor (37:33)
+Lua mama de după cap, un șut în fund, dote la și stai la baier curat acolo, plimbă -te cu oaile, du capra la păscut. Ceva sănătos, frumos. Și cumva era așteptarea...
+
+Nu știu dacă a fost a mamei neapărat, cred că a fost al o bunică mea de pe mama care a zis că, mama, băiatul ăsta vorbește frumos, e cuminte, uite -și tu ce față de băiat bun are. Trebuie să facă popă, adică și altceva e în viață mai important decât primarul și popa. Primar nu are șmecherie în el, nu se descurcă, așa asta a rămas, a rămas popa. Deci, aia nu pot să -mi atribui. Aia nu a fost a mea. Pe partea de neuro, pe partea de medicină,
+
+Mi s -a parut întotdeauna fascinanta partea asta. Dincolo de grija umana pe care o ai față de oamenii din jurul tău, să înțelegi cum funcționează corpul uman, de ce mai dă răteuri câteodată, în ce context dă răteuri, de la nutriție, la orice boli poți să apară. Pentru mine a fost întotdeauna o fascinație. Și cred că s -a trigăruit și de la Doctor House, nu știu dacă ați văzut serialul.
+
+Lucian (38:48)
+Oh da! Cum sunt? Ce tare!
+
+Aleodor (38:51)
+Mă identific un pic. Mă identific un pic cu haus și cred că m -a trigăruit când am văzut primă oare serialul ăsta, m -a trigăruit efectiv și am întrat într -un mod ăla de...
+
+Lucian (39:00)
+Dar ce? Stai, cu ce te identifici mai mult? Cu cinismului, cu aroganta lui sau cu faptul ca vrea sa ajute oamenii cu orice pret? Like, literally cu orice pret!
+
+Aleodor (39:11)
+Cred că ultima parte cu faptul că vrea să ajute câteodată cu orice preț oamenii și faptul că era un pic de rebel împotriva sistemului. Adică nu era... Atat timp cât sistemul nu era în ajutorul oamenilor sau în interesul oamenilor, îl ignora. Și mă regăseam foarte mult în chestia asta. Adică dacă e o regulă pusă in place care nu e benefică pentru noi, de ce dracu -ași -l respectau?
+
+Lucian (39:21)
+Mhm.
+
+Cum ar fi ca asigurarea nu plateste nu stiu ce test de laboratori care vrea Doctor House care e bineînțeles cum și nu are niciun fel de motiv pentru care să facă testul ăla.
+
+Aleodor (39:49)
+Exact, exact. Dacă tot set -upul... Adică cumva eu cred în continuare în chestia asta și e destul de mult dintr -o valoare, inclusiv în momentul în care sunt acum la muncă, cred că o bună parte din succesul meu e doza asta de rebeliune față de sistem. Că în lumea asta a corporaților, în momentul în care intri, ai un framework foarte clar în care ar trebui să lucrezi și în care ar trebui să funcționezi. Ecoledora nu a funcționat niciodată framework -ul ăsta.
+
+Eu mă duc și vin ca o tornadă în orice organizație sunt și le iau și le învârț și sunt... Da de ce? Da de ce funcționează asta așa?
+
+Lucian (40:27)
+Adică pui sub semnul trebării procesele care nu servez cu adevărat eficiența.
+
+Aleodor (40:35)
+Exact. Vorbesc cu oamenii, ca asta e ceea ce fac, asta e placerea mea in viata, sa stau de vorba cu oamenii. Si...
+
+Lucian (40:39)
+Mhm.
+
+Pe acum ești manager, nu? Ești inginer dar totuși manager.
+
+Aleodor (40:45)
+Discutăm despre asta, dacă ajungem la ea. Pentru mine, principalul rol în viață pentru mine este să sunt oamenii din jurul meu și să pot să -i ajut pe oamenii din jurul meu. Tot ce mi -aș dori este ca la finalul vieții, la 75 de ani, sau cât o să fie, să stau pe pat acolo.
+
+Lucian (40:49)
+A, ajunge macula! Haha, sigur!
+
+Așa?
+
+Aleodor (41:16)
+O stiu, zic ca ar fi frumos. Ar fi frumos, dar 75, cum se zice la noi, traiti corect. Nu... trai... fara probleme, da. Si da, ajung la 75 cu o cinzeaca de whisky in pahar, cu un cup de gheata si sa ma uit asa si sa zic, ba, overall, in viata asta, eu am lasat un impact net pozitiv. Daca pot sa ma uit la...
+
+Lucian (41:24)
+Fără probleme.
+
+Aleodor (41:42)
+în spatele la viață și să zic chestia asta, eu cred că asta înseamnă o viață bine trăită. Și impactul pozitiv nu -i asupra mediului în capul meu, ci asupra oamenilor care sunt în jurul meu.
+
+Lucian (41:53)
+Deci asta te drive -uie pe tine sa intelegi. Asta e ceea ce de fapt conteaza. Te puteam merge super filozofica. Esti la zeamul de developer, noi suntem foarte atenti si avem scule diferite pentru diferite sapaturi. Daca vrei, putem sa pare si in directia asta filozofica. The meaning of life, ce te drive -uie, de unde vine motivatia, de unde e combustibilul pentru ca sa mergi inainte si lucruri de genul asta. Daca vrei, tap in, hai sa povestim despre asta.
+
+Aleodor (41:58)
+100 %
+
+Am stat...
+
+Cum să nu? Eu povestesc despre orice. Ţi -am zis, oameni dispuși să povestească, să fie că eu povestesc.
+
+Lucian (42:30)
+Nă, bun. Hai, atunci, ca să nu -mi opică, mergem înapoi la ceartul tău deosebit fabulos. Atunci, spune -ne unde anume simți tu și regăsești motivația pe care o ai ca să faci ceea ce faci în momentul de față și sau în momentul ăla care îl vizionezi la 75 de ani. De unde ți -o iei motivația? Vine dinăuntru, vine din exterior, vine din ce părți vine și cum vine la tine? Că sunt curios.
+
+Aleodor (42:36)
+Mhm.
+
+Mhm.
+
+Aaaa...
+
+La mine cred că mostly din exterior. Eu dacă văd oameni în jurul meu care zâmbesc, dacă impactul meu asupra celor din jur e unul pozitiv, că ziceam mai înainte, pe mine asta mă drive -ește constant. Aici, că ziceai la început că vorbești cu terapeutul și eu am un terapeut cu care vorbesc, o doamnă extraordinară și...
+
+Am discutat despre chestia asta. Eu pot să trag de mine 16 ore constant să fiu la high performing mode atât timp că -ți simt că ceea ce fac, fac pentru binele celor din jur. Și nu trebuie să fie neapărat targetați, nu trebuie să -mi fie neapărat oameni apropiați, dar când știu că fac un impact net pozitiv în jurul meu, pot să trag constant, efectiv.
+
+Lucian (43:39)
+Mm -hm.
+
+Păi dă -ne și un exemplu.
+
+Aleodor (43:51)
+Exemplu. Primul care mi -a venit în cap că nu am. Acum, vreo trei ani de zile...
+
+Lucian (43:54)
+Păi ale, ale cel mai valoros.
+

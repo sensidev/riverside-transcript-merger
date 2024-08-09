@@ -3,7 +3,9 @@ import re
 import sys
 from datetime import timedelta
 
-DEFAULT_TRANSCRIPTS_PATH = 'transcripts'
+ROOT_PATH = os.path.abspath(os.getcwd())
+DEFAULT_TRANSCRIPTS_PATH = os.path.join(ROOT_PATH, 'transcripts')
+OUTPUT_PATH = os.path.join(ROOT_PATH, 'merged.txt')
 
 
 # Function to parse timestamp and return timedelta object
@@ -25,7 +27,7 @@ def format_timestamp(timedelta_obj):
     hours = total_seconds // 3600
     minutes = (total_seconds % 3600) // 60
     seconds = total_seconds % 60
-    return f"{hours:02}:{minutes:02}:{seconds:02}"
+    return f'{hours:02}:{minutes:02}:{seconds:02}'
 
 
 # Function to adjust the timestamps in a transcript based on offset
@@ -38,7 +40,7 @@ def adjust_timestamps(transcript, offset):
             timestamp = match.group(2)
             original_time = parse_timestamp(timestamp)
             new_time = original_time + offset
-            adjusted_transcript.append(f"{person}({format_timestamp(new_time)})")
+            adjusted_transcript.append(f'{person}({format_timestamp(new_time)})')
         else:
             adjusted_transcript.append(line)
     return '\n'.join(adjusted_transcript)
@@ -47,13 +49,13 @@ def adjust_timestamps(transcript, offset):
 # Main function to concatenate transcripts
 def concatenate_transcripts(files):
     offset = timedelta()
-    concatenated_transcript = ""
+    concatenated_transcript = ''
 
     for file in files:
         with open(file, 'r', encoding='utf-8') as f:
             transcript = f.read()
             adjusted_transcript = adjust_timestamps(transcript, offset)
-            concatenated_transcript += adjusted_transcript + "\n"
+            concatenated_transcript += adjusted_transcript + '\n'
 
             # Update offset for next file
             timestamps = re.findall(r'\((\d+:\d+(?::\d+)?)\)', transcript)
@@ -67,7 +69,7 @@ def concatenate_transcripts(files):
 def get_sorted_file_list(directory_path):
     # Check if the directory exists
     if not os.path.isdir(directory_path):
-        print(f"Error: The directory '{directory_path}' does not exist.")
+        print(f'Error: The directory {directory_path} does not exist.')
         return
 
     try:
@@ -86,11 +88,11 @@ def get_sorted_file_list(directory_path):
         return full_file_paths
 
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f'An error occurred: {e}')
         return []
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     if len(sys.argv) < 2:
         transcript_path = DEFAULT_TRANSCRIPTS_PATH
     else:
@@ -103,7 +105,11 @@ if __name__ == "__main__":
     final_transcript = concatenate_transcripts(file_list)
 
     # Write the final transcript to a new file
-    with open(os.path.join(transcript_path, "merged.txt"), 'w', encoding='utf-8') as output_file:
+    with open(OUTPUT_PATH, 'w', encoding='utf-8') as output_file:
         output_file.write(final_transcript)
 
-    print(f"Transcripts concatenated successfully {len(file_list)} files!")
+    print(f'Transcripts concatenated successfully {len(file_list)} files!')
+
+    print(*file_list, sep='\n')
+
+    print(f'Output: {OUTPUT_PATH}')
